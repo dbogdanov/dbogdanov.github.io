@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://www.linkedin.com/in/dibogdanov/
 
-url: http://dbogdanov.github.io
+url: https://dbogdanov.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
