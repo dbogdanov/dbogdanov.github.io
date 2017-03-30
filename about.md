@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am inspired by music technology both from engineering and artistic points of view. I am interested in how it can help us in development of novel ways of interacting with music, providing tools for its creation, and potentially challenging our understanding of it.</p>
+<p>I am inspired in music technology both from engineering and artistic points of view. I am interested in how it can help us in development of novel ways of interacting with music, providing tools for its creation, and potentially challenging our understanding of it.</p>
 
 <p>I am a post-doctoral researcher at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I work on audio analysis and semantic annotation of large-scale music collections using signal processing and machine learning techniques. 
 <!--I am interested in how audio analysis can help us in development of novel ways of interacting with music content, and how it can provide insights into our understanding of music.--></p>
