@@ -1,0 +1,23 @@
+---
+title: "Sonar Innovation Challenge: Instruments for interacting with Creative Commons audio"
+layout: post
+date: 2017-04-01 12:00
+tag: projects
+image: http://sic.upf.edu/wp-content/uploads/2017/02/audiocommons_box.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+category: project
+author: dbogdanov
+externalLink: false
+---
+
+There is already a vast amount of Creative Commons audio out there in the word and in [AudioCommons](http://www.audiocommons.org/) project we explore its use for creative industries. 
+
+I am co-mentoring one of the [innovation challenges](http://sic.upf.edu/) for this year's edition of the [Sónar+D](https://sonarplusd.com/) festival.  The idea for this challenge is to create a music instrument (hardware or software) that can help artists to discover, interact and play with Creative Commons audio content (samples or even entire music tracks) using our audio analysis technologies.
+
+We are searching for music technologists, creative developers and UI/UX designers. More details [here](http://sic.upf.edu/challenges/audiocommons/). 
+
+
