@@ -18,7 +18,7 @@ Over the past months we've been preparing a genre recognition task based on the 
 
 The task is about **music genre recognition**: we want to build systems that are able to predict genre and subgenre of unknown music recordings (songs) given automatically computed music audio features of those recordings. 
 
-It is a popular problem in Music Information Retrieval, however the task that we propose is somewhat different, more detailed and more challenging:
+It is a popular problem in [Music Information Retrieval](https://en.wikipedia.org/wiki/Music_information_retrieval), however the task that we propose is somewhat different, more detailed and more challenging:
 
 - There are different genre taxonomies and people may not always agree on the meaning of genres. Genres labels are probably subjective categories. We want to **explore how the same music can be annotated differently** by different communities following different genre taxonomies, and how this should be addressed by genre recognition systems. We provide **four genre sources** that come from different music databases. Their taxonomies vary in specificity, breadth and meaning of genre labels. This sources include explicit **annotations done by music experts** and **annotations inferred from folksonomies**.
 
@@ -30,9 +30,7 @@ It is a popular problem in Music Information Retrieval, however the task that we
 
 - Finally, we provide information about **hierarchy of genres and subgenres** within each genre annotation source. Systems can take advantage of this knowledge. 
 
-A full description of the task is available here:
-
-https://multimediaeval.github.io/2017-AcousticBrainz-Genre-Task/
+[See the full description of the task here](https://multimediaeval.github.io/2017-AcousticBrainz-Genre-Task/).
 
 
 
