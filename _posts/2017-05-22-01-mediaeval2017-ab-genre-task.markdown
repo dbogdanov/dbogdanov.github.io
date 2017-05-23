@@ -26,7 +26,7 @@ It is a popular problem in [Music Information Retrieval](https://en.wikipedia.or
 
 - Genre recognition is often treated as a single-category classification problem, which is not necessarily the way it should be. Our genre data is intrinsically multi-label and so we propose to treat genre recognition as a **multi-label classification problem**.
 
-- Typically research is done on small music collections. Instead, we provide a **very large dataset** counting up to millions of recordings annotated by genres and subgenre. The downside is that we are not able to provide audio, but only **precomputed bags of features**.
+- Typically research is done on small music collections. Instead, we provide a **very large dataset** counting two million recordings annotated by genres and subgenre. The downside is that we are not able to provide audio, but only **precomputed bags of features**.
 
 - Finally, we provide information about **hierarchy of genres and subgenres** within each genre annotation source. Systems can take advantage of this knowledge. 
 
