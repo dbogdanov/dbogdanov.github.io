@@ -3,7 +3,7 @@ title: "AcousticBrainz Genre Task: Content-based music genre recognition from mu
 layout: post
 date: 2017-05-22 12:00
 tag: projects
-image: https://multimediaeval.github.io/2017-AcousticBrainz-Genre-Task/img/acousticbrainz_logo_short_horizontal.png
+image: https://github.com/dbogdanov/dbogdanov.github.io/blob/master/assets/images/posts/discogs_genre_cloud.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
