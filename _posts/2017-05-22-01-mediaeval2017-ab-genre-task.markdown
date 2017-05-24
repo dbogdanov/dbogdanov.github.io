@@ -3,8 +3,8 @@ title: "AcousticBrainz Genre Task: Content-based music genre recognition from mu
 layout: post
 date: 2017-05-22 12:00
 tag: projects
-image: https://github.com/dbogdanov/dbogdanov.github.io/blob/master/assets/images/posts/discogs_genre_cloud.png
-headerImage: true
+image: /assets/images/posts/discogs_genre_cloud_short.png
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
@@ -13,6 +13,8 @@ category: project
 author: dbogdanov
 externalLink: false
 ---
+
+![Genres]({{ site.url }}/assets/images/posts/discogs_genre_cloud.png)
 
 Over the past months we've been preparing a genre recognition task based on the vast amounts of music data we gathered in [AcousticBrainz](http://acousticbrainz.org/) database. It is now a part of [MediaEval 2017](http://www.multimediaeval.org), a benchmarking initiative that organizes an annual cycle of scientific evaluation tasks in the area of multimedia access and retrieval.
 
