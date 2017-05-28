@@ -13,10 +13,10 @@ author: dbogdanov
 externalLink: false
 ---
 
-There is already a vast amount of Creative Commons audio out there in the word and in [AudioCommons](http://www.audiocommons.org/) project we explore its use for creative industries. 
+There is already a vast amount of Creative Commons audio out there in the word and in the [AudioCommons](http://www.audiocommons.org/) project we explore its use for creative industries. 
 
 I am co-mentoring one of the [innovation challenges](http://sic.upf.edu/) for this year's edition of the [Sónar+D](https://sonarplusd.com/) festival.  The idea for this challenge is to create a music instrument (hardware or software) that can help artists to discover, interact and play with Creative Commons audio content (samples or even entire music tracks) using our audio analysis technologies.
 
-We are searching for music technologists, creative developers and UI/UX designers. More details [here](http://sic.upf.edu/challenges/audiocommons/). 
+We are searching for music technologists, creative developers, and UI/UX designers. More details [here](http://sic.upf.edu/challenges/audiocommons/). 
 
 
