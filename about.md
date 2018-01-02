@@ -52,7 +52,7 @@ layout: page
 
 <h2>Contact</h2>
 <ul>
-	<li><a href="http://mtg.upf.edu/people/dbogdanov">My profile at MTG</a></li>
+	<li><a href="http://mtg.upf.edu/research/labs/asp-lab">MTG</a></li>
 	<li><a href="mailto:dmitry.bogdanov@upf.edu">dmitry.bogdanov@upf.edu</a></li>
 </ul>
 <ul>	
@@ -60,3 +60,7 @@ layout: page
 	<li><a href="https://twitter.com/di_bogdanov">Twitter</a></li>
 	<li><a href="https://github.com/dbogdanov">Github</a></li>
 </ul>
+
+
+<h2>CV</h2>
+Read my <a href="{{ site.url }}/cv">CV</a> here.
