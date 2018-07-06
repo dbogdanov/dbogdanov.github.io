@@ -23,6 +23,7 @@ I serve as a supervisor in a number of industrial R&D projects held by Music Tec
 	<li>Music Information Retrieval</li>
 	<li>Sound and Music Computing</li>
 	<li>Audio Analysis</li>
+	<li>Music Metadata</li>
 	<li>Music Recommendation</li>
 	<li>Machine Learning</li>
 	<li>Data Mining</li>
