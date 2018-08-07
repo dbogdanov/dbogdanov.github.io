@@ -113,10 +113,12 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 
 ## Scientific services
 ### Reviewer for journals
+- IEEE Signal Processing Magazine (IEEE)
 - International Journal of Multimedia Information Retrieval (Springer)
 - Journal of Intelligent Information Systems (Springer)
 
 ### Reviewer for conferences
+- ACM RecSys Challenge 2018 Workshop, 2018
 - 18th International Society for Music Information Retrieval Conference (ISMIR), 2017
 - 19th International Conference on Digital Audio Effects (DAFx), 2016
 - 17th International Society for Music Information Retrieval Conference (ISMIR), 2016
@@ -126,6 +128,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - 7th Sound and Music Computing Conference (SMC), 2010
 
 ### Program Committee membership
+- ACM RecSys Challenge 2018 Workshop
 - MediaEval 2017 Workshop 
 - 4th International Workshop on Advances in Music Information Research (AdMIRe), 2012
 
