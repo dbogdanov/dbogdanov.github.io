@@ -143,6 +143,9 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - 2011 -- 2012 - Signal processing undegraduate course, Pompeu Fabra University, seminars and practicals
 - 2006 -- 2007 - Algorithms and algorithmic languages, Moscow State University, undergraduate course (practicals)
 
+### Jury memberships of PhD defenses
+- Daniel Gómez - 04/2017 - Drum Rhythm in Electronic Dance Music, Universitat Pompeu Fabra, Barcelona, Spain
+
 ## Awards
 - Best software submission (Essentia) in Open-Source Software Competition of ACM Multimedia 2013
 
