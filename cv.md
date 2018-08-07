@@ -10,7 +10,7 @@ Post-doctoral researcher at [Audio Signal Processing Lab](http://mtg.upf.edu/res
 - Address: Roc Boronat, 138, 08018 Barcelona
 - Phone: (+34) 935422176
 - dmitry.bogdanov@upf.edu
-- [https://es.linkedin.com/in/dibogdanov](https://es.linkedin.com/in/dibogdanov)
+- [https://www.linkedin.com/in/dibogdanov/](https://www.linkedin.com/in/dibogdanov/)
 
 ## Research interests
 Music information retrieval, sound and music computing, audio analysis, music recommendation, user modeling, machine learning, data mining, personalization.
