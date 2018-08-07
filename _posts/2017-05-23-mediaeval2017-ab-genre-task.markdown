@@ -7,7 +7,6 @@ image: /assets/images/posts/discogs_genre_cloud_short.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 category: project
 author: dbogdanov
 externalLink: false
