@@ -4,18 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am inspired by music technology both from engineering and artistic points of view. I am interested in how it can help us in development of novel ways of interacting with music, providing tools for its creation, and potentially challenging our understanding of it.</p>
+<p>I am inspired by music technology both from engineering and artistic points of view. I am interested in how it can help us in the development of novel ways of interacting with music, providing tools for its creation, and potentially challenging our understanding of it.</p>
 
-<p>I am a post-doctoral researcher at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I work on audio analysis and semantic annotation of large-scale music collections using signal processing and machine learning techniques. 
+<p>I am a post-doctoral researcher and software developer at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I work on audio analysis and semantic annotation of large-scale music collections using signal processing and machine learning techniques. 
 <!--I am interested in how audio analysis can help us in development of novel ways of interacting with music content, and how it can provide insights into our understanding of music.--></p>
 
-<p>I develop and maintain <a href="https://essentia.upf.edu">Essentia</a>, an open-source C++/Python library for audio analysis and audio-based music information retrieval. My work includes design and implementation of new audio analysis algorithms, management and documentation of the project.</p>
+<p>I develop and maintain <a href="https://essentia.upf.edu">Essentia</a>, an open-source C++/Python library for audio analysis and audio-based music information retrieval. My work includes design and implementation of new audio analysis algorithms, management, and documentation of the project.</p>
 <!--, and its integration into AcousticBrainz, an open database of music features extracted from audio that I co-coordinate.-->
 <p>I am also one of the coordinators of <a href="https://acousticbrainz.org">AcousticBrainz</a>, an open database of music features extracted from audio, bridging the gap between audio analysis technology and the wider open music metadata community.</p>
 
 I serve as a supervisor in a number of industrial R&D projects held by Music Technology Group in collaboration with industrial partners (<a href="https://www.lacupulamusic.com/">LaCúpula Music</a>, <a href="https://www.kakaocorp.com/service/KakaoMusic?lang=en">Kakao</a>, <a href="https://www.flits.live/">Flits</a>).
 
-<p>I graduated from <a href="http://www.msu.ru/en/">Moscow State University</a>  with Diploma in Applied Math and Informatics in 2006 and received my Ph.D. in Information, Communication and Audiovisual Technologies at the <a href="http://mtg.upf.edu/">Music Technology Group</a> of Pompeu Fabra University in 2013. My PhD thesis was focused on music recommendation systems using audio analysis and metadata (<a href="http://mtg.upf.edu/node/2817">read my thesis here</a>).</p>
+<p>I graduated from <a href="http://www.msu.ru/en/">Moscow State University</a>  with a Diploma in Applied Math and Informatics in 2006 and received my Ph.D. in Information, Communication and Audiovisual Technologies at the <a href="http://mtg.upf.edu/">Music Technology Group</a> of Pompeu Fabra University in 2013. My PhD thesis was focused on music recommendation systems using audio analysis and metadata (<a href="http://mtg.upf.edu/node/2817">read my thesis here</a>).</p>
 
 <h2>Interests</h2>
 
