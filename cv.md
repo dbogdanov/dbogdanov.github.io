@@ -36,9 +36,9 @@ Comission, IST-2006-045035). Researcher.
 - 2004 -- 2007 - Financed projects by Moscow State University. Researcher and developer.
 
 ### R&D supervision for industrial partners
-- 2018 -- Now - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems. R&D project supervisor.
-- 2018 -- Now - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en) (music recommendation): Music recommendation systems. R&D project supervisor.
-- 2018 -- Now - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts. R&D project supervisor.
+- 2018 -- Now - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
+- 2018 -- Now - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en) (music recommendation): Music recommendation systems.
+- 2018 -- Now - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
 
 ## Publications ([full list](http://www.mtg.upf.edu/biblio/author/910))
 ### Journals 
