@@ -27,8 +27,9 @@ My current projects include research and development for [Essentia](http://essen
 - 2003 -- 2007 - Researcher and developer at Computing Systems Laboratory, [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Moscow State University.
 
 ## Financed projects
-- 2016 -- Now - [Maria de Maeztu](https://portal.upf.edu/web/mdm-dtic/-/music-classification-using-large-audio-music-collections-and-deep-learning#.V3D5QZ4vChc) (Machine learning approaches for structuring large sound and music collections)
 - 2016 -- Now - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content)
+- 2016 -- 2018 - [MINGUS](https://www.upf.edu/web/mtg/mingus) (Music Information Gathering, Structuring and Processing for Semantic Audio Applications)
+- 2016 -- Now - [Maria de Maeztu](https://portal.upf.edu/web/mdm-dtic/-/music-classification-using-large-audio-music-collections-and-deep-learning#.V3D5QZ4vChc) (Machine learning approaches for structuring large sound and music collections)
 - 2013 -- 2015 - [SIGMUS](http://www.mtg.upf.edu/project/sigmus) (SIGnal Analysis for the Discovery of Traditional MUSic Repertories,
 TIN2012-36650). Researcher and developer.
 - 2007 -- 2008 - [Pharos](http://www.mtg.upf.edu/research/projects/pharos) (Platform for searcH of Audiovisual Resources across Online Spaces, IST, European
