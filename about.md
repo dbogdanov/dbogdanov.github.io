@@ -50,6 +50,7 @@ I serve as a supervisor in a number of industrial R&D projects held by Music Tec
 	<li><a href="http://mtg.upf.edu/biblio/author/Bogdanov">List of academic publications</a></li>
 	<li><a href="https://scholar.google.es/citations?user=YY2MoeAAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
 	<li><a href="http://mtg.upf.edu/node/2817">PhD Thesis</a></li>
+	<li><a href="https://www.researchgate.net/profile/Dmitry_Bogdanov">ResearchGate</a></li>
 </ul>
 
 
@@ -62,7 +63,6 @@ I serve as a supervisor in a number of industrial R&D projects held by Music Tec
 	<li><a href="https://www.linkedin.com/in/dibogdanov/">Linkedin</a></li>
 	<li><a href="https://twitter.com/di_bogdanov">Twitter</a></li>
 	<li><a href="https://github.com/dbogdanov">Github</a></li>
-	<li><a href="https://www.researchgate.net/profile/Dmitry_Bogdanov">ResearchGate</a></li>
 </ul>
 
 
