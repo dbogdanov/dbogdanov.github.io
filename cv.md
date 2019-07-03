@@ -27,7 +27,7 @@ My current projects include research and development for [Essentia](http://essen
 - 2003 -- 2007 - Researcher and developer at Computing Systems Laboratory, [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Moscow State University.
 
 ## Financed projects
-- 2016 -- Now - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content)
+- 2016 -- 2019 - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content)
 - 2016 -- 2018 - [MINGUS](https://www.upf.edu/web/mtg/mingus) (Music Information Gathering, Structuring and Processing for Semantic Audio Applications)
 - 2016 -- Now - [Maria de Maeztu](https://portal.upf.edu/web/mdm-dtic/-/music-classification-using-large-audio-music-collections-and-deep-learning#.V3D5QZ4vChc) (Machine learning approaches for structuring large sound and music collections)
 - 2013 -- 2016 - [GiantSteps](https://www.upf.edu/web/mtg/giant-steps) (Seven League Boots for Music Creation and Performance)
@@ -52,6 +52,13 @@ Management. 49(1) , 13-33.
 Similarity Measures. IEEE Transactions on Multimedia. 13(4), 687-701.
 
 ### Conference proceedings (peer-reviewed)
+2019
+- Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019).  The MTG-Jamendo Dataset for Automatic Music Tagging. Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019).
+- Bogdanov, D., Porter A., Schreiber H., Urbano J., & Oramas S. (2019).  The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale. 20th International Society for Music Information Retrieval Conference (ISMIR 2019).
+- Alonso-Jiménez, P., Joglar-Ongay L., Serra X., & Bogdanov D. (2019).  Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution. AES 146th Convention.
+- Ferraro, A., Bogdanov D., & Serra X. (2019).  Skip prediction using boosting trees based on acoustic features of tracks in sessions. WSDM Cup Workshop 2019.
+
+
 2018
 - Ferraro, A., Bogdanov D., Yoon J., Kim K. S., & Serra X. (2018).  Automatic playlist continuation using a hybrid recommender system combining features from text and audio. Workshop on the RecSys Challenge 2018.
 - Ferraro, A., Bogdanov D., Choi K., & Serra X. (2018).  Using offline metrics and user behavior analysis to combine multiple systems for music recommendation. RecSys 2018 Workshop on Offline Evaluation of Recommender Systems.
@@ -138,6 +145,8 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
 
 ### Invited talks
+- Essentia: Past, Present, and Future. BCN Music Technology Forum. 27-06-2019.
+- Audio Analysis and Music Information Retrieval at MTG. KAISTxSNU Music and Audio Workshop. 22-02-2019.
 - The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 07-11-2011.
 
 ## Scientific services
@@ -147,6 +156,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - Journal of Intelligent Information Systems (Springer)
 
 ### Reviewer for conferences
+- 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
 - ACM RecSys Challenge 2018 Workshop, 2018
 - 18th International Society for Music Information Retrieval Conference (ISMIR), 2017
 - 19th International Conference on Digital Audio Effects (DAFx), 2016
@@ -157,6 +167,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - 7th Sound and Music Computing Conference (SMC), 2010
 
 ### Program Committee membership
+- 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
 - ACM RecSys Challenge 2018 Workshop
 - MediaEval 2018 Workshop
 - MediaEval 2017 Workshop 
