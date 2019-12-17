@@ -156,6 +156,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - Journal of Intelligent Information Systems (Springer)
 
 ### Reviewer for conferences
+- 1st Workshop on Designing Human-Centric MIR Systems, 2019
 - 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
 - ACM RecSys Challenge 2018 Workshop, 2018
 - 18th International Society for Music Information Retrieval Conference (ISMIR), 2017
@@ -169,6 +170,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 ### Program Committee membership
 - 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
 - ACM RecSys Challenge 2018 Workshop
+- MediaEval 2019 Workshop
 - MediaEval 2018 Workshop
 - MediaEval 2017 Workshop 
 - 4th International Workshop on Advances in Music Information Research (AdMIRe), 2012
