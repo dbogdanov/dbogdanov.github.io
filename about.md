@@ -44,6 +44,9 @@ I serve as a supervisor in a number of industrial R&D projects held by Music Tec
 	<li><a href="https://essentia.upf.edu">Essentia</a></li>
 	<li><a href="https://acousticbrainz.org">AcousticBrainz</a></li>
 	<li><a href="http://www.audiocommons.org/">Audio Commons</a></li>
+</ul>
+
+<ul>
 	<li><a href="https://mtg.github.io/acousticbrainz-genre-dataset/">The AcousticBrainz Genre Dataset</a></li>
 	<li><a href="https://mtg.github.io/mtg-jamendo-dataset/">The MTG-Jamendo Dataset</a></li>
 	<li><a href="https://multimediaeval.github.io/2019-Emotion-and-Theme-Recognition-in-Music-Task/">MediaEval Emotion and Theme Recognition Task</a></li>
