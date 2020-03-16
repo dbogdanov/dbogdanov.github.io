@@ -13,7 +13,7 @@ layout: page
 <!--, and its integration into AcousticBrainz, an open database of music features extracted from audio that I co-coordinate.-->
 <p>I am also one of the coordinators of <a href="https://acousticbrainz.org">AcousticBrainz</a>, an open database of music features extracted from audio, bridging the gap between audio analysis technology and the wider open music metadata community.</p>
 
-I serve as a supervisor in a number of industrial R&D projects held by Music Technology Group in collaboration with industrial partners (such as <a href="https://www.lacupulamusic.com/">LaCúpula Music</a> / <a href="https://sonosuite.com">SonoSuite</a>a>, <a href="https://www.kakaocorp.com/service/KakaoMusic?lang=en">Kakao</a>, <a href="https://www.flits.live/">Flits</a>, and others).
+I serve as a supervisor in a number of industrial R&D projects held by Music Technology Group in collaboration with industrial partners (such as <a href="https://www.lacupulamusic.com/">LaCúpula Music</a> / <a href="https://sonosuite.com">SonoSuite</a>, <a href="https://www.kakaocorp.com/service/KakaoMusic?lang=en">Kakao</a>, <a href="https://www.flits.live/">Flits</a>, and others).
 
 <p>I graduated from <a href="http://www.msu.ru/en/">Moscow State University</a>  with a Diploma in Applied Math and Informatics in 2006 and received my Ph.D. in Information, Communication and Audiovisual Technologies at the <a href="http://mtg.upf.edu/">Music Technology Group</a> of Pompeu Fabra University in 2013. My PhD thesis was focused on music recommendation systems using audio analysis and metadata (<a href="http://mtg.upf.edu/node/2817">read my thesis here</a>).</p>
 
