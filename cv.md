@@ -121,6 +121,7 @@ Advances in Music Information Research (AdMIRe).
 - Schedl, M., Knees P., McFee B., Bogdanov D., & Kaminskas M. (2015).  Music Recommender Systems. Recommender Systems Handbook. 453-492.
 
 ### Other publications
+- Bogdanov, D., Porter A., Tovstogan P., & Won M. (2019). MediaEval 2019: Emotion and Theme Recognition in Music Using Jamendo. MediaEval 2019 Workshop.
 - Oramas, S., Bogdanov D., & Porter A. (2018).  MediaEval 2018 AcousticBrainz Genre Task: A baseline combining deep feature embeddings across datasets. MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2018).  The MediaEval 2018 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources. MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2017).  The MediaEval 2017 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources. MediaEval 2017 Workshop.
