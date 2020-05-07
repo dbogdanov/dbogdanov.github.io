@@ -67,7 +67,6 @@ layout: page
 
 <h2>Contact</h2>
 <ul>
-	<li><a href="http://mtg.upf.edu/research/labs/asp-lab">MTG</a></li>
 	<li><a href="mailto:dmitry.bogdanov@upf.edu">dmitry.bogdanov@upf.edu</a></li>
 </ul>
 <ul>	
