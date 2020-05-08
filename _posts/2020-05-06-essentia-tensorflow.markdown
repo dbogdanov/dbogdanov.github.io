@@ -28,8 +28,10 @@ For example, here is the MusiCNN model performing music auto-tagging on a live a
 
 <iframe width="600" height="480" src="https://www.youtube.com/embed/xMUcY7_n4kQ" frameborder="0" allowfullscreen></iframe> 
 
-You can use all new functionality and models for deep learning inference to develop your entire audio analysis pipeline in C++ or Python. For quick prototyping, we provide Python wheels on Linux (`pip install essentia-tensorflow`, pip version ≥19.3). 
+You can use all new functionality and models for deep learning inference to develop your entire audio analysis pipeline in C++ or Python. For quick prototyping, we provide Python wheels on Linux (`pip install essentia-tensorflow`, pip version ≥19.3).
 
+
+See our [ICASSP 2020 paper](https://arxiv.org/abs/2003.07393) for more details.
 
 
 
