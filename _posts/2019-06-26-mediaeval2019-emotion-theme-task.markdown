@@ -12,7 +12,7 @@ author: dbogdanov
 externalLink: false
 ---
 
-![Top 20 tags per category (genre, instrument, mood/theme) in the MTG-Jamendo dataset]({{ site.url }}/assets/images/posts/mediaeval2019_tagcloud.png)
+![MediaEval 2019 Emotion and Theme Recognition in Music Using Jamendo]({{ site.url }}/assets/images/posts/mediaeval2019_tagcloud.png)
 
 We are pleased to announce a new MIR-related task held within the
 MediaEval 2019 evaluation campaign: [Emotion and Theme Recognition in
