@@ -22,7 +22,7 @@ Meanwhile, we present it at the AES 2019 Audio Engineering Society Dublin Conven
 
 [Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution](http://www.aes.org/e-lib/browse.cfm?elib=20338).
 Alonso-Jiménez, P., Joglar-Ongay L., Serra X., & Bogdanov D.
-In AES 146th Convention, 2020.
+In AES 146th Convention, 2019.
 
 > Providing contents within the industry quality standards is crucial for digital music distribution companies. For this reason an excellent quality control (QC) support is paramount to ensure that the music does not contain audio defects. Manual QC is a very effective and widely used method, but it is very time and resources consuming. Therefore, automation is needed in order to develop an efficient and scalable QC service. In this paper we outline the main needs to solve together with the implementation of digital signal processing algorithms and perceptual heuristics to improve the QC workflow. The algorithms are validated on a large music collection of more than 300,000 tracks.
 
