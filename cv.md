@@ -57,7 +57,7 @@ Similarity Measures. IEEE Transactions on Multimedia. 13(4), 687-701.
 - Bogdanov, D., Porter A., Schreiber H., Urbano J., & Oramas S. (2019).  The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale. 20th International Society for Music Information Retrieval Conference (ISMIR 2019).
 - Alonso-Jiménez, P., Joglar-Ongay L., Serra X., & Bogdanov D. (2019).  Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution. AES 146th Convention.
 - Ferraro, A., Bogdanov D., & Serra X. (2019).  Skip prediction using boosting trees based on acoustic features of tracks in sessions. WSDM Cup Workshop 2019.
-
+- Ferraro, A., Bogdanov D., Serra X., & Yoon J. (2019).  Artist and Style Exposure Bias in Collaborative Filtering Based Music Recommendations. Workshop on Designing Human-Centric MIR Systems.
 
 2018
 - Ferraro, A., Bogdanov D., Yoon J., Kim K. S., & Serra X. (2018).  Automatic playlist continuation using a hybrid recommender system combining features from text and audio. Workshop on the RecSys Challenge 2018.
@@ -156,6 +156,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - Journal of Intelligent Information Systems (Springer)
 
 ### Reviewer for conferences
+- 21st International Society for Music Information Retrieval Conference (ISMIR), 2020
 - 1st Workshop on Designing Human-Centric MIR Systems, 2019
 - 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
 - ACM RecSys Challenge 2018 Workshop, 2018
