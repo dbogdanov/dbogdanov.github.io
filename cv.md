@@ -13,9 +13,9 @@ Post-doctoral researcher and software developer at [Audio Signal Processing Lab]
 - [https://www.linkedin.com/in/dibogdanov/](https://www.linkedin.com/in/dibogdanov/)
 
 ## Research interests
-Music information retrieval, sound and music computing, audio analysis, music recommendation, user modeling, machine learning, data mining, personalization.
+Music information retrieval, sound and music computing, audio analysis, music recommendation, user modeling, machine learning, deep learning, data mining, personalization.
 
-My current projects include research and development for [Essentia](http://essentia.upf.edu) audio analysis library and the large-scale music information retrieval database [AcousticBrainz](http://acousticbrainz.org).
+My projects include research and development for [Essentia](http://essentia.upf.edu) audio analysis library and the large-scale music information retrieval database [AcousticBrainz](http://acousticbrainz.org).
 
 ## Academic background
 - PhD in Information, Communication and Audiovisual Technologies at Pompeu Fabra University (2008-2013), Department of Information and Communication Technologies. Thesis: [*"From music similarity to music recommendation: Computational approaches based on audio features and metadata"*](http://www.mtg.upf.edu/node/2817).
@@ -37,9 +37,9 @@ TIN2012-36650). Researcher and developer.
 - 2004 -- 2007 - Financed projects by Moscow State University. Researcher and developer.
 
 ### R&D supervision for industrial partners
-- 2018 -- Now - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
 - 2018 -- Now - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en) (music recommendation): Music recommendation systems.
-- 2018 -- Now - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
+- 2018 -- 2019 - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
+- 2018 -- 2019 - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
 
 ## Publications ([full list](http://www.mtg.upf.edu/biblio/author/910))
 ### Journals 
@@ -52,6 +52,9 @@ Management. 49(1) , 13-33.
 Similarity Measures. IEEE Transactions on Multimedia. 13(4), 687-701.
 
 ### Conference proceedings (peer-reviewed)
+2020
+- Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra X. (2019). TensorFlow Audio Models in Essentia. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
+
 2019
 - Bogdanov, D., Won M., Tovstogan P., Porter A., & Serra X. (2019).  The MTG-Jamendo Dataset for Automatic Music Tagging. Machine Learning for Music Discovery Workshop, International Conference on Machine Learning (ICML 2019).
 - Bogdanov, D., Porter A., Schreiber H., Urbano J., & Oramas S. (2019).  The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale. 20th International Society for Music Information Retrieval Conference (ISMIR 2019).
@@ -119,6 +122,7 @@ Advances in Music Information Research (AdMIRe).
 - Schedl, M., Knees P., McFee B., Bogdanov D., & Kaminskas M. (2015).  Music Recommender Systems. Recommender Systems Handbook. 453-492.
 
 ### Other publications
+- Bogdanov, D., Porter A., Tovstogan P., & Won M. (2019). MediaEval 2019: Emotion and Theme Recognition in Music Using Jamendo. MediaEval 2019 Workshop.
 - Oramas, S., Bogdanov D., & Porter A. (2018).  MediaEval 2018 AcousticBrainz Genre Task: A baseline combining deep feature embeddings across datasets. MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2018).  The MediaEval 2018 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources. MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2017).  The MediaEval 2017 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources. MediaEval 2017 Workshop.
@@ -154,6 +158,7 @@ audio features and metadata. 227. UPF, Barcelona, Spain.
 - IEEE Signal Processing Magazine (IEEE)
 - International Journal of Multimedia Information Retrieval (Springer)
 - Journal of Intelligent Information Systems (Springer)
+- Transactions of the International Society for Music Information Retrieval (TISMIR)
 
 ### Reviewer for conferences
 - 21st International Society for Music Information Retrieval Conference (ISMIR), 2020
