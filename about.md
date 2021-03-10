@@ -6,7 +6,7 @@ layout: page
 
 <p>I am inspired by music technology both from engineering and artistic points of view. I am interested in how it can help us in the development of novel ways of interacting with music, providing tools for its creation, and potentially challenging our understanding of it.</p>
 
-<p>I am a post-doctoral researcher and software developer at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I work on audio analysis and semantic annotation of large-scale music collections using signal processing and machine learning techniques. 
+<p>I am a senior researcher and software developer at the <a href="http://mtg.upf.edu/research/labs/asp-lab">Music Technology Group</a> of <a href="http://upf.edu">Pompeu Fabra University</a> in Barcelona, Spain. I work on audio analysis and semantic annotation of large-scale music collections using signal processing and machine learning techniques. 
 <!--I am interested in how audio analysis can help us in development of novel ways of interacting with music content, and how it can provide insights into our understanding of music.--></p>
 
 <p>I am the lead developer of <a href="https://essentia.upf.edu">Essentia</a>, an open-source C++/Python library for audio analysis and audio-based music information retrieval. My work includes the design and implementation of new audio analysis algorithms, management, and documentation of the project.</p>

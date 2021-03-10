@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 ## Dmitry Bogdanov
-Post-doctoral researcher and software developer at [Audio Signal Processing Lab](http://mtg.upf.edu/research/labs/asp-lab) at [Music Technology Group](http://mtg.upf.edu/), Departament de Tecnologies de la Informació i les Comunicacions, Universitat Pompeu Fabra.
+Senior researcher and software developer at [Audio Signal Processing Lab](http://mtg.upf.edu/research/labs/asp-lab) at [Music Technology Group](http://mtg.upf.edu/), Departament de Tecnologies de la Informació i les Comunicacions, Universitat Pompeu Fabra.
 
 - Address: Roc Boronat, 138, 08018 Barcelona
 - Phone: (+34) 935422176
