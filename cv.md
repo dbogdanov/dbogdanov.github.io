@@ -18,7 +18,7 @@ Music information retrieval, sound and music computing, audio analysis, music re
 My projects include research and development for [Essentia](http://essentia.upf.edu) audio analysis library and the large-scale music information retrieval database [AcousticBrainz](http://acousticbrainz.org).
 
 ## Academic background
-- PhD in Information, Communication and Audiovisual Technologies at Pompeu Fabra University (2008-2013), Department of Information and Communication Technologies. Thesis: [*"From music similarity to music recommendation: Computational approaches based on audio features and metadata"*](http://www.mtg.upf.edu/node/2817).
+- PhD in Information, Communication and Audiovisual Technologies at Pompeu Fabra University (2008-2013), Department of Information and Communication Technologies. Thesis: [*"From music similarity to music recommendation: Computational approaches based on audio features and metadata"*](http://hdl.handle.net/10803/123776).
 - Diploma in Applied Mathematics and Informatics at Moscow State University (2001-2006), Faculty of Computational Mathematics and Cybernetics (CMC MSU). Specialization in Software for Computers.
 
 ## Professional experience
