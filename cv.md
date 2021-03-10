@@ -129,6 +129,13 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 07-11-2011.
 
 ## Scientific services
+### Organization of scientific events
+- [Web Audio Conference, 2021](https://webaudioconf2021.com/). Artworks and Performances Chair.
+- MediaEval [Emotions and Themes in Music, 2020](https://multimediaeval.github.io/2020-Emotion-and-Theme-Recognition-in-Music-Task/).
+- MediaEval [Emotions and Themes in Music, 2019](https://multimediaeval.github.io/2019-Emotion-and-Theme-Recognition-in-Music-Task/).
+- MediaEval [AcousticBrainz Genre Task, 2018](https://multimediaeval.github.io/2018-AcousticBrainz-Genre-Task/).
+- MediaEval [AcousticBrainz Genre Task, 2017](https://multimediaeval.github.io/2017-AcousticBrainz-Genre-Task/).
+
 ### Reviewer for journals
 - IEEE Signal Processing Magazine (IEEE)
 - International Journal of Multimedia Information Retrieval (Springer)
