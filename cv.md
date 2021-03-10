@@ -115,7 +115,7 @@ TIN2012-36650). Researcher and developer.
 - Bogdanov, D., Serrà J., Wack N., & Herrera P. (2009). Hybrid Similarity Measures For Music Recommendation. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
 - Wack, N., Guaus E., Laurier C., Meyers O., Marxer R., Bogdanov D., et al. (2009). Music type groupers (MTG): generic music classification algorithms. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
 
-### Thesis
+### PhD thesis
 - Bogdanov, D. (2013). [From music similarity to music recommendation: Computational approaches based on
 audio features and metadata](https://hdl.handle.net/10803/123776). Universitat Pompeu Fabra, Barcelona, Spain.
 
