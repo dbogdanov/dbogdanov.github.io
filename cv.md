@@ -37,9 +37,11 @@ TIN2012-36650). Researcher and developer.
 - 2004 -- 2007 - Financed projects by Moscow State University. Researcher and developer.
 
 ### R&D supervision for industrial partners
-- 2018 -- Now - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en) (music recommendation): Music recommendation systems.
+- 2018 -- Now - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en): Music recommendation systems.
 - 2018 -- 2019 - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
 - 2018 -- 2019 - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
+- 2021 -- Now - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
+
 
 ## Publications ([full list](http://www.mtg.upf.edu/biblio/author/910))
 ### Journals 
