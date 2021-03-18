@@ -43,7 +43,7 @@ TIN2012-36650). Researcher and developer.
 - 2021 -- Now - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
 
 
-## Publications ([full list](http://www.mtg.upf.edu/biblio/author/910))
+## Publications
 ### Journals 
 - Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., et al. (2014). [ESSENTIA: an open source library for audio analysis](http://hdl.handle.net/10230/45267). ACM SIGMM Records. 6(1).
 - Bogdanov, D., Haro M., Fuhrmann F., Xambó A., Gómez E., Herrera P., et al. (2013). [Semantic content-based music recommendation and visualization based on user preference examples](https://dx.doi.org/10.1016/j.ipm.2012.06.004). Information Processing & Management. 49(1).
