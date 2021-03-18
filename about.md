@@ -20,59 +20,59 @@ layout: page
 <h2>Interests</h2>
 
 <ul class="skill-list">
-	<li>Music Information Retrieval</li>
-	<li>Sound and Music Computing</li>
-	<li>Audio Analysis</li>
-	<li>Music Metadata</li>
-	<li>Music Recommendation</li>
-	<li>Machine Learning</li>
-	<li>Deep Learning</li>
-	<li>Data Mining</li>
-	<li>Recommender Systems</li>
-	<li>Personalization</li>
+    <li>Music Information Retrieval</li>
+    <li>Sound and Music Computing</li>
+    <li>Music Technology</li>
+    <li>Audio Analysis</li>
+    <li>Music Metadata</li>
+    <li>Music Recommendation</li>
+    <li>Machine Learning</li>
+    <li>Deep Learning</li>
+    <li>Data Mining</li>
+    <li>Recommender Systems</li>
 </ul>
 
 <ul class="skill-list">
-	<li>Music production, mixing and performance</li>
-	<li>Sound design</li>
-	<li>Musicology of electronic music</li>
+    <li>Music production, mixing and performance</li>
+    <li>Sound design</li>
+    <li>Musicology of electronic music</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://essentia.upf.edu">Essentia</a></li>
-	<li><a href="https://acousticbrainz.org">AcousticBrainz</a></li>
-	<li><a href="http://www.audiocommons.org/">Audio Commons</a></li>
+    <li><a href="https://essentia.upf.edu">Essentia</a></li>
+    <li><a href="https://acousticbrainz.org">AcousticBrainz</a></li>
+    <li><a href="http://www.audiocommons.org/">Audio Commons</a></li>
 </ul>
 
 <ul>
-	<li><a href="https://mtg.github.io/acousticbrainz-genre-dataset/">The AcousticBrainz Genre Dataset</a></li>
-	<li><a href="https://mtg.github.io/mtg-jamendo-dataset/">The MTG-Jamendo Dataset</a></li>
-	<li><a href="https://multimediaeval.github.io/2019-Emotion-and-Theme-Recognition-in-Music-Task/">MediaEval Emotion and Theme Recognition Task</a></li>
-	<li><a href="http://www.aes.org/e-lib/browse.cfm?elib=20338">Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution</a></li>
-	<li><a href="https://www.upf.edu/web/mtg/musical-avatar">The Musical Avatar</a></li>
+    <li><a href="https://mtg.github.io/acousticbrainz-genre-dataset/">The AcousticBrainz Genre Dataset</a></li>
+    <li><a href="https://mtg.github.io/mtg-jamendo-dataset/">The MTG-Jamendo Dataset</a></li>
+    <li><a href="https://multimediaeval.github.io/2019-Emotion-and-Theme-Recognition-in-Music-Task/">MediaEval Emotion and Theme Recognition Task</a></li>
+    <li><a href="http://www.aes.org/e-lib/browse.cfm?elib=20338">Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution</a></li>
+    <li><a href="https://www.upf.edu/web/mtg/musical-avatar">The Musical Avatar</a></li>
 </ul>
 
 <h2>Publications</h2>
 <ul>
-	<li><a href="http://mtg.upf.edu/biblio/author/Bogdanov">List of academic publications</a></li>
-	<li><a href="https://scholar.google.es/citations?user=YY2MoeAAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
-	<li><a href="https://orcid.org/0000-0002-9469-0633">ORCID</a></li>
-	<li><a href="https://www.scopus.com/authid/detail.uri?authorId=35748642000">Scopus</a></li>
-	<li><a href="https://www.researchgate.net/profile/Dmitry_Bogdanov">ResearchGate</a></li>
-	<li><a href="http://mtg.upf.edu/node/2817">PhD Thesis</a></li>
+    <li><a href="http://mtg.upf.edu/biblio/author/Bogdanov">List of academic publications</a></li>
+    <li><a href="https://scholar.google.es/citations?user=YY2MoeAAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
+    <li><a href="https://orcid.org/0000-0002-9469-0633">ORCID</a></li>
+    <li><a href="https://www.scopus.com/authid/detail.uri?authorId=35748642000">Scopus</a></li>
+    <li><a href="https://www.researchgate.net/profile/Dmitry_Bogdanov">ResearchGate</a></li>
+    <li><a href="http://mtg.upf.edu/node/2817">PhD Thesis</a></li>
 </ul>
 
 
 <h2>Contact</h2>
 <ul>
-	<li><a href="mailto:dmitry.bogdanov@upf.edu">dmitry.bogdanov@upf.edu</a></li>
+    <li><a href="mailto:dmitry.bogdanov@upf.edu">dmitry.bogdanov@upf.edu</a></li>
 </ul>
 <ul>	
-	<li><a href="https://www.linkedin.com/in/dibogdanov/">Linkedin</a></li>
-	<li><a href="https://twitter.com/di_bogdanov">Twitter</a></li>
-	<li><a href="https://github.com/dbogdanov">Github</a></li>
+    <li><a href="https://www.linkedin.com/in/dibogdanov/">Linkedin</a></li>
+    <li><a href="https://twitter.com/di_bogdanov">Twitter</a></li>
+    <li><a href="https://github.com/dbogdanov">Github</a></li>
 </ul>
 
 

@@ -13,7 +13,7 @@ Senior researcher and software developer at [Audio Signal Processing Lab](http:/
 - [https://www.linkedin.com/in/dibogdanov/](https://www.linkedin.com/in/dibogdanov/)
 
 ## Research interests
-Music information retrieval, sound and music computing, audio analysis, music recommendation, user modeling, machine learning, deep learning, data mining, personalization.
+Music information retrieval, sound and music computing, music technology, audio analysis, music metadata, music recommendation, machine learning, deep learning, data mining.
 
 My projects include research and development for [Essentia](http://essentia.upf.edu) audio analysis library and the large-scale music information retrieval database [AcousticBrainz](http://acousticbrainz.org).
 
