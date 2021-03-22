@@ -125,12 +125,14 @@ TIN2012-36650). Researcher and developer.
 audio features and metadata](https://hdl.handle.net/10803/123776). Universitat Pompeu Fabra, Barcelona, Spain.
 
 ### Demos
+- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. European Research Music Conference. 11.06.2018.
 - My Musical Avatar. 9th International Workshop on Content-based Multimedia Indexing. 2011.
 - My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
 
 ### Invited talks
-- Essentia: Past, Present, and Future. BCN Music Technology Forum. 27-06-2019.
-- Audio Analysis and Music Information Retrieval at MTG. KAISTxSNU Music and Audio Workshop. 22-02-2019.
+- Essentia: past, present, and future. BCN Music Technology Forum. 27-06-2019.
+- Music feature analysis with Essentia. MIP-Frontiers Summer School. 22-05-2019.
+- Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 22-02-2019.
 - The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 07-11-2011.
 
 ## Scientific services
