@@ -171,6 +171,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - 4th International Workshop on Advances in Music Information Research (AdMIRe), 2012
 
 ## Teaching
+- 2020 -- Now - Music Technology Lab, Pompeu Fabra University, seminars
 - 2015 -- Now - Master in Sound and Music Computing, Pompeu Fabra University, theses supervision
 - 2014 -- 2017 - Master in Sound and Music Computing, Pompeu Fabra University, Audio and Music Processing Lab, seminars
 - 2011 -- 2012 - Signal processing undegraduate course, Pompeu Fabra University, seminars and practicals
