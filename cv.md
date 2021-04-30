@@ -52,7 +52,7 @@ TIN2012-36650). Researcher and developer.
 ### Conference proceedings (peer-reviewed)
 2020
 - Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra X. (2019). [TensorFlow Audio Models in Essentia](http://hdl.handle.net/10230/46455). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
-- Correya, A., Bogdanov, D., Jjoglar-Ongay, L., & Serra, X. [Essentia.js: a JavaScript library for music and audio analysis on the web](http://hdl.handle.net/10230/45451). International Society for Music Information Retrieval Conference (ISMIR 2020).
+- Correya, A., Bogdanov, D., Joglar-Ongay, L., & Serra, X. (2020) [Essentia.js: a JavaScript library for music and audio analysis on the web](http://hdl.handle.net/10230/45451). International Society for Music Information Retrieval Conference (ISMIR 2020).
 - Ramires, A., Font, F., Bogdanov, D., Smith, J.B.L., Yang, Y., Ching, J., Chen, B., Wu, Y., Wei-Han, H., & Serra, X. [The Freesound Loop dataset and annotation tool](http://hdl.handle.net/10230/45450). International Society for Music Information Retrieval Conference (ISMIR 2020).
 - Ferraro, A., Jeon, J. H., B. Kim, Serra, X., & Bogdanov D. (2020). [Artist biases in collaborative filtering for music recommendation](http://hdl.handle.net/10230/45185). Machine Learning for Media Discovery Workshop, International Conference on Machine Learning (ML4MD ICML 2020).
 - Tovstogan, P., Serra, X., & Bogdanov, D. (2020). [Web interface for exploration of latent and tag spaces in music auto-tagging](http://hdl.handle.net/10230/45186). Machine Learning for Media Discovery Workshop, International Conference on Machine Learning (ML4MD ICML 2020).
@@ -69,30 +69,30 @@ TIN2012-36650). Researcher and developer.
 - Ferraro, A., Bogdanov D., Choi K., & Serra X. (2018).  [Using offline metrics and user behavior analysis to combine multiple systems for music recommendation](http://hdl.handle.net/10230/37153). RecSys 2018 Workshop on Offline Evaluation of Recommender Systems (REVEAL 2018).
 
 2017
-- Bogdanov, D., & Serra X. (2017). [Quantifying music trends and facts using editorial metadata from the Discogs database](http://hdl.handle.net/10230/32931).  18th International Society for Music Information Retrieval Conference (ISMIR'17).
-- Fonseca, E., Pons, J., Favory, X., Font, F., Bogdanov, D., Ferraro, A., Oramas, S., Porter, A., Serra, X. (2017). [Freesound Datasets: A platform for the creation of open audio datasets](http://hdl.handle.net/10230/33299). 18th International Society for Music Information Retrieval Conference (ISMIR'17).
+- Bogdanov, D., & Serra X. (2017). [Quantifying music trends and facts using editorial metadata from the Discogs database](http://hdl.handle.net/10230/32931).  18th International Society for Music Information Retrieval Conference (ISMIR 2017).
+- Fonseca, E., Pons, J., Favory, X., Font, F., Bogdanov, D., Ferraro, A., Oramas, S., Porter, A., Serra, X. (2017). [Freesound Datasets: A platform for the creation of open audio datasets](http://hdl.handle.net/10230/33299). 18th International Society for Music Information Retrieval Conference (ISMIR 2017).
 - Fonseca, E., Gong R., Bogdanov D., Slizovskaia O., Gomez E., & Serra X. (2017).  [Acoustic scene classification by ensembling gradient boosting machine and convolutional neural networks. Workshop on Detection and Classification of Acoustic Scenes and Events](http://hdl.handle.net/10230/33454).
 
 2016
-- Bogdanov, D., Porter A., Herrera P., & Serra X. (2016). [Cross-collection evaluation for music classification tasks](http://hdl.handle.net/10230/33061). 17th International Society for Music Information Retrieval Conference (ISMIR'16).
-- Porter, A., Bogdanov D., & Serra X. (2016). [Mining metadata from the web for AcousticBrainz](http://hdl.handle.net/10230/33142). 3rd International Digital Libraries for Musicology workshop (DL4M'16).
+- Bogdanov, D., Porter A., Herrera P., & Serra X. (2016). [Cross-collection evaluation for music classification tasks](http://hdl.handle.net/10230/33061). 17th International Society for Music Information Retrieval Conference (ISMIR 2016).
+- Porter, A., Bogdanov D., & Serra X. (2016). [Mining metadata from the web for AcousticBrainz](http://hdl.handle.net/10230/33142). 3rd International Digital Libraries for Musicology workshop (DL4M 2016).
 
 2015
-- Porter, A., Bogdanov D., Kaye R., Tsukanov R., & Serra X. (2015). [AcousticBrainz: a community platform for gathering music information obtained from audio](http://hdl.handle.net/10230/34997). 16th International Society for Music Information Retrieval Conference (ISMIR'15).
+- Porter, A., Bogdanov D., Kaye R., Tsukanov R., & Serra X. (2015). [AcousticBrainz: a community platform for gathering music information obtained from audio](http://hdl.handle.net/10230/34997). 16th International Society for Music Information Retrieval Conference (ISMIR 2015).
 
 2014
-- Urbano, J., Bogdanov D., Herrera P., Gómez E., & Serra X. (2014). [What is the Effect of Audio Quality on the Robustness of MFCCs and Chroma Features?](http://hdl.handle.net/10230/27392) International Society for Music Information Retrieval Conference (ISMIR'14).
+- Urbano, J., Bogdanov D., Herrera P., Gómez E., & Serra X. (2014). [What is the Effect of Audio Quality on the Robustness of MFCCs and Chroma Features?](http://hdl.handle.net/10230/27392) International Society for Music Information Retrieval Conference (ISMIR 2014).
 
 2013
-- Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., Roma G., Salamon J., Zapata J., & Serra X. (2013). [ESSENTIA: an open-source library for sound and music analysis](http://hdl.handle.net/10230/35168). ACM International Conference on Multimedia (MM'13).
-- Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., Roma G., Salamon J., Zapata J., & Serra X. (2013). [ESSENTIA: an audio analysis library for music information retrieval](https://hdl.handle.net/10230/32252). International Society for Music Information Retrieval Conference (ISMIR'13).
+- Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., Roma G., Salamon J., Zapata J., & Serra X. (2013). [ESSENTIA: an open-source library for sound and music analysis](http://hdl.handle.net/10230/35168). ACM International Conference on Multimedia (MM 2013).
+- Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., Roma G., Salamon J., Zapata J., & Serra X. (2013). [ESSENTIA: an audio analysis library for music information retrieval](https://hdl.handle.net/10230/32252). International Society for Music Information Retrieval Conference (ISMIR 2013).
 
 2012
-- Bogdanov, D., & Herrera P. (2012). Taking Advantage of Editorial Metadata to Recommend Music. 9th International Symposium on Computer Music Modeling and Retrieval (CMMR).
+- Bogdanov, D., & Herrera P. (2012). Taking Advantage of Editorial Metadata to Recommend Music. 9th International Symposium on Computer Music Modeling and Retrieval (CMMR 2012).
 - Yang, Y., Bogdanov D., Perfecto H., & Sordo M. (2012). Music Retagging Using Label Propagation and Robust Principal Component Analysis. 21st International World Wide Web Conference (WWW 2012): 4th International Workshop on Advances in Music Information Research (AdMIRe 2012).
 
 2011
-- Bogdanov, D., & Herrera P. (2011). How much metadata do we need in music recommendation? A subjective evaluation using preference sets. International Society for Music Information Retrieval Conference (ISMIR'11).
+- Bogdanov, D., & Herrera P. (2011). How much metadata do we need in music recommendation? A subjective evaluation using preference sets. International Society for Music Information Retrieval Conference (ISMIR 2011).
 - Bogdanov, D., Haro M., Fuhrmann F., Xambó A., Gómez E., & Herrera P. (2011). A Content-based System for Music Recommendation and Visualization of User Preferences Working on Semantic Notions. 9th International Workshop on Content-based Multimedia Indexing.
 
 2010
