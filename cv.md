@@ -45,13 +45,18 @@ TIN2012-36650). Researcher and developer.
 
 ## Publications
 ### Journals 
+- Ferraro, A., Favory, X., Drossos, K., Yuntae, K., Bogdanov, D. (2021). [Enriched music representations with multiple cross-modal contrastive learning](http://hdl.handle.net/10230/47323). IEEE Signal Processing Letters. 28.
 - Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., et al. (2014). [ESSENTIA: an open source library for audio analysis](http://hdl.handle.net/10230/45267). ACM SIGMM Records. 6(1).
 - Bogdanov, D., Haro M., Fuhrmann F., Xambó A., Gómez E., Herrera P., et al. (2013). [Semantic content-based music recommendation and visualization based on user preference examples](https://dx.doi.org/10.1016/j.ipm.2012.06.004). Information Processing & Management. 49(1).
 - Bogdanov, D., Serrà J., Wack N., Herrera P., & Serra X. (2011). [Unifying Low-level and High-level Music Similarity Measures](http://hdl.handle.net/10230/34780). IEEE Transactions on Multimedia. 13(4).
 
 ### Conference proceedings (peer-reviewed)
+2021
+- Correya, A., Alonso-Jiménez, P., Marcos-Fernández, J., Serra, X. & Bogdanov, D. (2021). Essentia TensorFlow Models for Audio and Music Processing on the Web. Web Audio Conference (WAC 2021).
+- Ferraro, A., Kim, Y., Lee, S., Kim, B., Jo, N., Lim, S., Lim, S., Jang, J., Kim, S., Serra, X., Bogdanov, D. (2021). Melon Playlist Dataset: A Public Dataset for Audio-Based Playlist Generation and Music Tagging. (ICASSP 2021).
+
 2020
-- Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra X. (2019). [TensorFlow Audio Models in Essentia](http://hdl.handle.net/10230/46455). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
+- Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra X. (2020). [TensorFlow Audio Models in Essentia](http://hdl.handle.net/10230/46455). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
 - Correya, A., Bogdanov, D., Joglar-Ongay, L., & Serra, X. (2020) [Essentia.js: a JavaScript library for music and audio analysis on the web](http://hdl.handle.net/10230/45451). International Society for Music Information Retrieval Conference (ISMIR 2020).
 - Ramires, A., Font, F., Bogdanov, D., Smith, J.B.L., Yang, Y., Ching, J., Chen, B., Wu, Y., Wei-Han, H., & Serra, X. [The Freesound Loop dataset and annotation tool](http://hdl.handle.net/10230/45450). International Society for Music Information Retrieval Conference (ISMIR 2020).
 - Ferraro, A., Jeon, J. H., B. Kim, Serra, X., & Bogdanov D. (2020). [Artist biases in collaborative filtering for music recommendation](http://hdl.handle.net/10230/45185). Machine Learning for Media Discovery Workshop, International Conference on Machine Learning (ML4MD ICML 2020).
@@ -88,27 +93,28 @@ TIN2012-36650). Researcher and developer.
 - Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., Roma G., Salamon J., Zapata J., & Serra X. (2013). [ESSENTIA: an audio analysis library for music information retrieval](https://hdl.handle.net/10230/32252). International Society for Music Information Retrieval Conference (ISMIR 2013).
 
 2012
-- Bogdanov, D., & Herrera P. (2012). Taking Advantage of Editorial Metadata to Recommend Music. 9th International Symposium on Computer Music Modeling and Retrieval (CMMR 2012).
-- Yang, Y., Bogdanov D., Perfecto H., & Sordo M. (2012). Music Retagging Using Label Propagation and Robust Principal Component Analysis. 21st International World Wide Web Conference (WWW 2012): 4th International Workshop on Advances in Music Information Research (AdMIRe 2012).
+- Bogdanov, D., & Herrera P. (2012). [Taking Advantage of Editorial Metadata to Recommend Music](http://hdl.handle.net/10230/47121). 9th International Symposium on Computer Music Modeling and Retrieval (CMMR 2012).
+- Yang, Y., Bogdanov D., Perfecto H., & Sordo M. (2012). [Music Retagging Using Label Propagation and Robust Principal Component Analysis](http://hdl.handle.net/10230/47007). 21st International World Wide Web Conference (WWW 2012): 4th International Workshop on Advances in Music Information Research (AdMIRe 2012).
 
 2011
-- Bogdanov, D., & Herrera P. (2011). How much metadata do we need in music recommendation? A subjective evaluation using preference sets. International Society for Music Information Retrieval Conference (ISMIR 2011).
-- Bogdanov, D., Haro M., Fuhrmann F., Xambó A., Gómez E., & Herrera P. (2011). A Content-based System for Music Recommendation and Visualization of User Preferences Working on Semantic Notions. 9th International Workshop on Content-based Multimedia Indexing.
+- Bogdanov, D., & Herrera P. (2011). [How much metadata do we need in music recommendation? A subjective evaluation using preference sets](http://hdl.handle.net/10230/47008). International Society for Music Information Retrieval Conference (ISMIR 2011).
+- Bogdanov, D., Haro M., Fuhrmann F., Xambó A., Gómez E., & Herrera P. (2011). [A Content-based System for Music Recommendation and Visualization of User Preferences Working on Semantic Notions](http://hdl.handle.net/10230/47003). 9th International Workshop on Content-based Multimedia Indexing (CBMI 2011).
 
 2010
-- Bogdanov, D., Haro M., Fuhrmann F., Gómez E., & Herrera P. (2010). Content-based music recommendation based on user preference examples. The 4th ACM Conference on Recommender Systems. Workshop on Music Recommendation and Discovery (Womrad 2010).
-- Haro, M., Xambó A., Fuhrmann F., Bogdanov D., Gómez E., & Herrera P. (2010). The Musical Avatar - A visualization of musical preferences by means of audio content description. 5th Audio Mostly Conference: A Conference on Interaction with Sound.
+- Bogdanov, D., Haro M., Fuhrmann F., Gómez E., & Herrera P. (2010). [Content-based music recommendation based on user preference examples](http://hdl.handle.net/10230/47004). The 4th ACM Conference on Recommender Systems. Workshop on Music Recommendation and Discovery (Womrad 2010).
+- Haro, M., Xambó A., Fuhrmann F., Bogdanov D., Gómez E., & Herrera P. (2010). [The Musical Avatar - A visualization of musical preferences by means of audio content description](http://hdl.handle.net/10230/47005). 5th Audio Mostly Conference: A Conference on Interaction with Sound (AM 2010).
 
 2009
-- Bogdanov, D., Serrà, J., Wack, N., & Herrera, P. (2009). From Low-level to High-level: Comparative study of music similarity measures. IEEE International Symposium on Multimedia. International Workshop on Advances in Music Information Research (AdMIRe).
+- Bogdanov, D., Serrà, J., Wack, N., & Herrera, P. (2009). [From Low-level to High-level: Comparative study of music similarity measures](http://hdl.handle.net/10230/47006). IEEE International Symposium on Multimedia (ISM 2009). International Workshop on Advances in Music Information Research (AdMIRe).
 
 ### Book chapters
+- Schedl, M., Knees P., McFee B., Bogdanov D. (In Press).  Music Recommender Systems. Recommender Systems Handbook (3nd edition). Springer.
 - Schedl, M., Knees P., McFee B., Bogdanov D., & Kaminskas M. (2015).  [Music Recommender Systems. Recommender Systems Handbook (2nd edition)](https://www.springer.com/gp/book/9781489976369). Springer.
 
 ### Other publications
 - Alonso-Jiménez, P., Bogdanov, D., & Serra, X. (2020). [Deep embeddings with Essentia models](http://hdl.handle.net/10230/45452). International Society for Music Information Retrieval Conference (ISMIR 2020). Late Breaking Demo.
-- Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2020). MediaEval 2020: Emotion and Theme Recognition in Music Using Jamendo. MediaEval 2020 Workshop.
-- Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2019). MediaEval 2019: Emotion and Theme Recognition in Music Using Jamendo. MediaEval 2019 Workshop.
+- Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2020). MediaEval 2020: Emotion and theme recognition in music using Jamendo. MediaEval 2020 Workshop.
+- Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2019). [MediaEval 2019: Emotion and theme recognition in music using Jamendo](http://hdl.handle.net/10230/46860). MediaEval 2019 Workshop.
 - Oramas, S., Bogdanov D., & Porter A. (2018).  [MediaEval 2018 AcousticBrainz Genre Task: A baseline combining deep feature embeddings across datasets](http://hdl.handle.net/10230/35745). MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2018). [The MediaEval 2018 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources](http://hdl.handle.net/10230/35744). MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2017). [The MediaEval 2017 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources](http://hdl.handle.net/10230/32932). MediaEval 2017 Workshop.
