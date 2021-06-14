@@ -58,6 +58,7 @@ TIN2012-36650). Researcher and developer.
 2020
 - Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra X. (2020). [TensorFlow Audio Models in Essentia](http://hdl.handle.net/10230/46455). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
 - Correya, A., Bogdanov, D., Joglar-Ongay, L., & Serra, X. (2020) [Essentia.js: a JavaScript library for music and audio analysis on the web](http://hdl.handle.net/10230/45451). International Society for Music Information Retrieval Conference (ISMIR 2020).
+- Won, M., Ferraro, A., Bogdanov, D., Serra, X. (2020). [Evaluation of CNN-based Automatic Music Tagging Models](https://arxiv.org/abs/2006.00751). Sound and Music Computing Conference (SMC 2020).
 - Ramires, A., Font, F., Bogdanov, D., Smith, J.B.L., Yang, Y., Ching, J., Chen, B., Wu, Y., Wei-Han, H., & Serra, X. [The Freesound Loop dataset and annotation tool](http://hdl.handle.net/10230/45450). International Society for Music Information Retrieval Conference (ISMIR 2020).
 - Ferraro, A., Jeon, J. H., B. Kim, Serra, X., & Bogdanov D. (2020). [Artist biases in collaborative filtering for music recommendation](http://hdl.handle.net/10230/45185). Machine Learning for Media Discovery Workshop, International Conference on Machine Learning (ML4MD ICML 2020).
 - Tovstogan, P., Serra, X., & Bogdanov, D. (2020). [Web interface for exploration of latent and tag spaces in music auto-tagging](http://hdl.handle.net/10230/45186). Machine Learning for Media Discovery Workshop, International Conference on Machine Learning (ML4MD ICML 2020).
