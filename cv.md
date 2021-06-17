@@ -151,12 +151,14 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - MediaEval [AcousticBrainz Genre Task, 2017](https://multimediaeval.github.io/2017-AcousticBrainz-Genre-Task/).
 
 ### Reviewer for journals
+- IEEE Transactions on Multimedia (IEEE)
 - IEEE Signal Processing Magazine (IEEE)
 - International Journal of Multimedia Information Retrieval (Springer)
 - Journal of Intelligent Information Systems (Springer)
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
 
 ### Reviewer for conferences
+- 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021
 - 21st International Society for Music Information Retrieval Conference (ISMIR), 2020
 - 1st Workshop on Designing Human-Centric MIR Systems, 2019
 - 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
