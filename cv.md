@@ -52,11 +52,12 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 ### Conference proceedings (peer-reviewed)
 2021
-- Correya, A., Alonso-Jiménez, P., Marcos-Fernández, J., Serra, X. & Bogdanov, D. (2021). Essentia TensorFlow Models for Audio and Music Processing on the Web. Web Audio Conference (WAC 2021).
-- Ferraro, A., Kim, Y., Lee, S., Kim, B., Jo, N., Lim, S., Lim, S., Jang, J., Kim, S., Serra, X., Bogdanov, D. (2021). Melon Playlist Dataset: A Public Dataset for Audio-Based Playlist Generation and Music Tagging. (ICASSP 2021).
+- Correya, A., Alonso-Jiménez, P., Marcos-Fernández, J., Serra, X. & Bogdanov, D. (2021). [Essentia TensorFlow models for audio and music processing on the web](https://webaudioconf2021.com/wp-content/uploads/2021/06/WAC_2020_essentia_js_models-3.pdf). Web Audio Conference (WAC 2021).
+- Ferraro, A., Kim, Y., Lee, S., Kim, B., Jo, N., Lim, S., Lim, S., Jang, J., Kim, S., Serra, X., & Bogdanov, D. (2021). [Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging](https://arxiv.org/abs/2102.00201). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021).
 
 2020
-- Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra X. (2020). [TensorFlow Audio Models in Essentia](http://hdl.handle.net/10230/46455). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
+- Ferraro, A., Bogdanov, D., Serra, X., Jeon, J. H., & Yoon, J. (2020). [How low can you go? Reducing frequency and time resolution in current CNN architectures for music auto-tagging](https://arxiv.org/abs/1911.04824). The 28th European Signal Processing Conference (EUSIPCO 2020).
+- Alonso-Jiménez, P., Bogdanov, D., Pons, J., & Serra, X. (2020). [TensorFlow Audio Models in Essentia](http://hdl.handle.net/10230/46455). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020).
 - Correya, A., Bogdanov, D., Joglar-Ongay, L., & Serra, X. (2020) [Essentia.js: a JavaScript library for music and audio analysis on the web](http://hdl.handle.net/10230/45451). International Society for Music Information Retrieval Conference (ISMIR 2020).
 - Won, M., Ferraro, A., Bogdanov, D., Serra, X. (2020). [Evaluation of CNN-based Automatic Music Tagging Models](https://arxiv.org/abs/2006.00751). Sound and Music Computing Conference (SMC 2020).
 - Ramires, A., Font, F., Bogdanov, D., Smith, J.B.L., Yang, Y., Ching, J., Chen, B., Wu, Y., Wei-Han, H., & Serra, X. [The Freesound Loop dataset and annotation tool](http://hdl.handle.net/10230/45450). International Society for Music Information Retrieval Conference (ISMIR 2020).
