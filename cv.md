@@ -79,7 +79,7 @@ My projects include research and development for [Essentia](http://essentia.upf.
 2017
 - Bogdanov, D., & Serra X. (2017). [Quantifying music trends and facts using editorial metadata from the Discogs database](http://hdl.handle.net/10230/32931).  18th International Society for Music Information Retrieval Conference (ISMIR 2017).
 - Fonseca, E., Pons, J., Favory, X., Font, F., Bogdanov, D., Ferraro, A., Oramas, S., Porter, A., Serra, X. (2017). [Freesound Datasets: A platform for the creation of open audio datasets](http://hdl.handle.net/10230/33299). 18th International Society for Music Information Retrieval Conference (ISMIR 2017).
-- Fonseca, E., Gong R., Bogdanov D., Slizovskaia O., Gomez E., & Serra X. (2017).  [Acoustic scene classification by ensembling gradient boosting machine and convolutional neural networks. Workshop on Detection and Classification of Acoustic Scenes and Events](http://hdl.handle.net/10230/33454).
+- Fonseca, E., Gong R., Bogdanov D., Slizovskaia O., Gomez E., & Serra X. (2017).  [Acoustic scene classification by ensembling gradient boosting machine and convolutional neural networks](http://hdl.handle.net/10230/33454). Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE 2017).
 
 2016
 - Bogdanov, D., Porter A., Herrera P., & Serra X. (2016). [Cross-collection evaluation for music classification tasks](http://hdl.handle.net/10230/33061). 17th International Society for Music Information Retrieval Conference (ISMIR 2016).
@@ -122,12 +122,13 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2018). [The MediaEval 2018 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources](http://hdl.handle.net/10230/35744). MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2017). [The MediaEval 2017 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources](http://hdl.handle.net/10230/32932). MediaEval 2017 Workshop.
 - Bogdanov, D., Porter A., & Serra X. (2015).  [Taming wild horses with Essentia Music Extractor](http://hdl.handle.net/10230/46293). International Society for Music Information Retrieval Conference (ISMIR 2015). Late Breaking Demo.
+- Gong, R., Fonseca, E., Bogdanov, D., Slizovskaia, O., Gomez, E., & Serra X. (2017). [Acoustic scene classification by fusing LightGBM and VGG-net multichannel predictions](http://dcase.community/documents/challenge2017/technical_reports/DCASE2017_Gong_189.pdf). Detection and Classification of Acoustic Scenes and Events (DCASE 2017). Technical report.
 - Bogdanov, D., Wack N., Gómez E., Gulati S., Herrera P., Mayor O., et al. (2014). [ESSENTIA: an open source library for audio analysis](http://hdl.handle.net/10230/45267). ACM SIGMM Records. 6(1).
-- Sordo, M., Celma Ò., & Bogdanov D. (2011). Audio Tag Classification using Weighted-Vote Nearest Neighbor Classification. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
-- Bogdanov, D., Serrà J., Wack N., & Herrera P. (2010). Hybrid Music Similarity Measure. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
-- Wack, N., Laurier C., Meyers O., Marxer R., Bogdanov D., Serrà J., et al. (2010). Music classification using high-level models. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
-- Bogdanov, D., Serrà J., Wack N., & Herrera P. (2009). Hybrid Similarity Measures For Music Recommendation. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
-- Wack, N., Guaus E., Laurier C., Meyers O., Marxer R., Bogdanov D., et al. (2009). Music type groupers (MTG): generic music classification algorithms. Music Information Retrieval Evaluation eXchange (MIREX) extended abstract.
+- Sordo, M., Celma Ò., & Bogdanov D. (2011). Audio Tag Classification using Weighted-Vote Nearest Neighbor Classification. Music Information Retrieval Evaluation eXchange (MIREX 2011) extended abstract.
+- Bogdanov, D., Serrà J., Wack N., & Herrera P. (2010). Hybrid Music Similarity Measure. Music Information Retrieval Evaluation eXchange (MIREX 2010) extended abstract.
+- Wack, N., Laurier C., Meyers O., Marxer R., Bogdanov D., Serrà J., et al. (2010). Music classification using high-level models. Music Information Retrieval Evaluation eXchange (MIREX 2010) extended abstract.
+- Bogdanov, D., Serrà J., Wack N., & Herrera P. (2009). Hybrid Similarity Measures For Music Recommendation. Music Information Retrieval Evaluation eXchange (MIREX 2009) extended abstract.
+- Wack, N., Guaus E., Laurier C., Meyers O., Marxer R., Bogdanov D., et al. (2009). Music type groupers (MTG): generic music classification algorithms. Music Information Retrieval Evaluation eXchange (MIREX 2009) extended abstract.
 
 ### PhD thesis
 - Bogdanov, D. (2013). [From music similarity to music recommendation: Computational approaches based on
