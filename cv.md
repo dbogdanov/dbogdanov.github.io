@@ -148,6 +148,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 ## Scientific services
 ### Organization of scientific events
 - [Web Audio Conference, 2021](https://webaudioconf2021.com/). Artworks and Performances Chair.
+- MediaEval [Emotions and Themes in Music, 2021](https://multimediaeval.github.io/2021-Emotion-and-Theme-Recognition-in-Music-Task/).
 - MediaEval [Emotions and Themes in Music, 2020](https://multimediaeval.github.io/2020-Emotion-and-Theme-Recognition-in-Music-Task/).
 - MediaEval [Emotions and Themes in Music, 2019](https://multimediaeval.github.io/2019-Emotion-and-Theme-Recognition-in-Music-Task/).
 - MediaEval [AcousticBrainz Genre Task, 2018](https://multimediaeval.github.io/2018-AcousticBrainz-Genre-Task/).
