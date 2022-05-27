@@ -160,6 +160,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - International Journal of Multimedia Information Retrieval (Springer)
 - Journal of Intelligent Information Systems (Springer)
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
+- Journal of the Audio Engineering Society (JAES)
 
 ### Reviewer for conferences
 - 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021
