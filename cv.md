@@ -44,6 +44,8 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 
 ## Publications
+[Google Scholar](https://scholar.google.es/citations?user=YY2MoeAAAAAJ&hl=en&oi=ao) [ORCID](https://orcid.org/0000-0002-9469-0633) [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35748642000) [ResearchGate](https://www.researchgate.net/profile/Dmitry_Bogdanov)
+
 ### Journals 
 - Correya, A., Marcos-Fernández, J., Joglar-Ongay, L., Alonso-Jiménez, P., Serra, X., Bogdanov, D. (2021). [Audio and music analysis on the web using Essentia.js](http://doi.org/10.5334/tismir.111). Transactions of the International Society for Music Information Retrieval. 4(1).
 - Ferraro, A., Favory, X., Drossos, K., Yuntae, K., Bogdanov, D. (2021). [Enriched music representations with multiple cross-modal contrastive learning](http://hdl.handle.net/10230/47323). IEEE Signal Processing Letters. 28.
