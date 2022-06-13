@@ -54,6 +54,10 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - Bogdanov, D., Serrà J., Wack N., Herrera P., & Serra X. (2011). [Unifying Low-level and High-level Music Similarity Measures](http://hdl.handle.net/10230/34780). IEEE Transactions on Multimedia. 13(4).
 
 ### Conference proceedings (peer-reviewed)
+2022
+- Tovstogan, P., Xavier, S. Bogdanov, D. (2022). [Visualization of deep audio embeddings for music exploration and rediscovery](https://zenodo.org/record/6573533). Sound and Music Computing Conference (SMC 2022).
+- Tovstogan, P., Xavier, S. Bogdanov, D. (2022). [Similarity of nearest-neighbor query results in deep latent spaces](https://zenodo.org/record/6573230). Sound and Music Computing Conference (SMC 2022).
+
 2021
 - Correya, A., Alonso-Jiménez, P., Marcos-Fernández, J., Serra, X. & Bogdanov, D. (2021). [Essentia TensorFlow models for audio and music processing on the web](https://webaudioconf2021.com/wp-content/uploads/2021/06/WAC_2020_essentia_js_models-3.pdf). Web Audio Conference (WAC 2021).
 - Ferraro, A., Kim, Y., Lee, S., Kim, B., Jo, N., Lim, S., Lim, S., Jang, J., Kim, S., Serra, X., & Bogdanov, D. (2021). [Melon Playlist Dataset: a public dataset for audio-based playlist generation and music tagging](https://arxiv.org/abs/2102.00201). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021).
