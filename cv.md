@@ -197,6 +197,11 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - 2011 -- 2012 - Signal processing undegraduate course, Pompeu Fabra University, seminars and practicals
 - 2006 -- 2007 - Algorithms and algorithmic languages, Moscow State University, undergraduate course (practicals)
 
+### PhD thesis supervision
+- [Philip Tovstogan](https://philtgun.me) - Exploration of Music Collections with Audio Embeddings, defended in 2022
+- [Pablo Alonso Jimenez](https://palonso.github.io) - ongoing
+- [Luis Joglar](https://www.luisjoglar.com) - ongoing
+
 ### Jury memberships of PhD defenses
 - Daniel Gómez - 04/2017 - Drum Rhythm in Electronic Dance Music, Universitat Pompeu Fabra, Barcelona, Spain
 
