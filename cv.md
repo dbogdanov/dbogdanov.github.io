@@ -117,7 +117,7 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - Bogdanov, D., Serrà, J., Wack, N., & Herrera, P. (2009). [From Low-level to High-level: Comparative study of music similarity measures](http://hdl.handle.net/10230/47006). IEEE International Symposium on Multimedia (ISM 2009). International Workshop on Advances in Music Information Research (AdMIRe).
 
 ### Book chapters
-- Schedl, M., Knees P., McFee B., Bogdanov D. (In Press).  Music Recommender Systems. Recommender Systems Handbook (3nd edition). Springer.
+- Schedl, M., Knees P., McFee B., Bogdanov D. (In Press). [Music Recommender Systems. Recommender Systems Handbook (3nd edition)](https://link.springer.com/book/10.1007/978-1-0716-2197-4). Springer.
 - Schedl, M., Knees P., McFee B., Bogdanov D., & Kaminskas M. (2015).  [Music Recommender Systems. Recommender Systems Handbook (2nd edition)](https://www.springer.com/gp/book/9781489976369). Springer.
 
 ### Other publications
