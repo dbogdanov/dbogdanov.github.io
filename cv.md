@@ -119,12 +119,14 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - Bogdanov, D., Serrà, J., Wack, N., & Herrera, P. (2009). [From Low-level to High-level: Comparative study of music similarity measures](http://hdl.handle.net/10230/47006). IEEE International Symposium on Multimedia (ISM 2009). International Workshop on Advances in Music Information Research (AdMIRe).
 
 ### Book chapters
-- Schedl, M., Knees P., McFee B., Bogdanov D. (In Press).  Music Recommender Systems. Recommender Systems Handbook (3nd edition). Springer.
+- Schedl, M., Knees P., McFee B., Bogdanov D. (In Press). [Music Recommender Systems. Recommender Systems Handbook (3nd edition)](https://link.springer.com/book/10.1007/978-1-0716-2197-4). Springer.
 - Schedl, M., Knees P., McFee B., Bogdanov D., & Kaminskas M. (2015).  [Music Recommender Systems. Recommender Systems Handbook (2nd edition)](https://www.springer.com/gp/book/9781489976369). Springer.
 
 ### Other publications
+- Marcos-Fernández, J., Joglar-Ongay, L., Serra, X., & Bogdanov, D. (2022). [Audio analysis applications in the browser with Essentia.js](https://doi.org/10.5281/zenodo.6769303). Web Audio Conference (WAC 2022).
+- Tovstogan P., Bogdanov, D., Porter, A. (2021). [MediaEval 2021: Emotion and theme recognition in music using Jamendo](http://ceur-ws.org/Vol-3181/paper6.pdf). MediaEval 2021 Workshop.
 - Alonso-Jiménez, P., Bogdanov, D., & Serra, X. (2020). [Deep embeddings with Essentia models](http://hdl.handle.net/10230/45452). International Society for Music Information Retrieval Conference (ISMIR 2020). Late Breaking Demo.
-- Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2020). MediaEval 2020: Emotion and theme recognition in music using Jamendo. MediaEval 2020 Workshop.
+- Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2020). [MediaEval 2020: Emotion and theme recognition in music using Jamendo](http://ceur-ws.org/Vol-2882/paper7.pdf). MediaEval 2020 Workshop.
 - Bogdanov, D., Porter, A., Tovstogan P., & Won M. (2019). [MediaEval 2019: Emotion and theme recognition in music using Jamendo](http://hdl.handle.net/10230/46860). MediaEval 2019 Workshop.
 - Oramas, S., Bogdanov D., & Porter A. (2018).  [MediaEval 2018 AcousticBrainz Genre Task: A baseline combining deep feature embeddings across datasets](http://hdl.handle.net/10230/35745). MediaEval 2018 Workshop.
 - Bogdanov, D., Porter A., Urbano J., & Schreiber H. (2018). [The MediaEval 2018 AcousticBrainz Genre Task: Content-based Music Genre Recognition from Multiple Sources](http://hdl.handle.net/10230/35744). MediaEval 2018 Workshop.
