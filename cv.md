@@ -55,8 +55,10 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 ### Conference proceedings (peer-reviewed)
 2022
-- Tovstogan, P., Xavier, S. Bogdanov, D. (2022). [Visualization of deep audio embeddings for music exploration and rediscovery](http://hdl.handle.net/10230/53710). Sound and Music Computing Conference (SMC 2022).
-- Tovstogan, P., Xavier, S. Bogdanov, D. (2022). [Similarity of nearest-neighbor query results in deep latent spaces](http://hdl.handle.net/10230/53709). Sound and Music Computing Conference (SMC 2022).
+- Bogdanov, D., Lizarraga-Seijas, X., Alonso-Jiménez, P. & Serra, X. (2022). [MusAV: A dataset of relative arousal-valence annotations for validation of audio models](http://hdl.handle.net/10230/54181). International Society for Music Information Retrieval Conference (ISMIR 2022).
+- Alonso-Jiménez, P., Serra, X. & Bogdanov, D. (2022). [Music Representation Learning Based on Editorial Metadata from Discogs](https://hdl.handle.net/10230/54158). International Society for Music Information Retrieval Conference (ISMIR 2022).
+- Tovstogan, P., Xavier, S. & Bogdanov, D. (2022). [Visualization of deep audio embeddings for music exploration and rediscovery](http://hdl.handle.net/10230/53710). Sound and Music Computing Conference (SMC 2022).
+- Tovstogan, P., Xavier, S. & Bogdanov, D. (2022). [Similarity of nearest-neighbor query results in deep latent spaces](http://hdl.handle.net/10230/53709). Sound and Music Computing Conference (SMC 2022).
 
 2021
 - Correya, A., Alonso-Jiménez, P., Marcos-Fernández, J., Serra, X. & Bogdanov, D. (2021). [Essentia TensorFlow models for audio and music processing on the web](https://webaudioconf2021.com/wp-content/uploads/2021/06/WAC_2020_essentia_js_models-3.pdf). Web Audio Conference (WAC 2021).
