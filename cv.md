@@ -119,10 +119,12 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - Bogdanov, D., Serrà, J., Wack, N., & Herrera, P. (2009). [From Low-level to High-level: Comparative study of music similarity measures](http://hdl.handle.net/10230/47006). IEEE International Symposium on Multimedia (ISM 2009). International Workshop on Advances in Music Information Research (AdMIRe).
 
 ### Book chapters
-- Schedl, M., Knees P., McFee B., & Bogdanov D. (2022). [Music Recommender Systems. Recommender Systems Handbook (3nd edition)](https://link.springer.com/book/10.1007/978-1-0716-2197-4). Springer.
-- Schedl, M., Knees P., McFee B., Bogdanov D., & Kaminskas M. (2015).  [Music Recommender Systems. Recommender Systems Handbook (2nd edition)](https://www.springer.com/gp/book/9781489976369). Springer.
+- Schedl, M., Knees, P., McFee, B., & Bogdanov D. (2022). [Music Recommender Systems. Recommender Systems Handbook (3nd edition)](https://link.springer.com/book/10.1007/978-1-0716-2197-4). Springer.
+- Schedl, M., Knees, P., McFee, B., Bogdanov, D., & Kaminskas M. (2015).  [Music Recommender Systems. Recommender Systems Handbook (2nd edition)](https://www.springer.com/gp/book/9781489976369). Springer.
 
 ### Other publications
+- Correya, A., Bogdanov, D., Alonso-Jiménez, P., & Serra X. (2022). [Essentia API: a web API for music audio analysis](https://ismir2022program.ismir.net/lbd_401.html). International Society for Music Information Retrieval Conference (ISMIR 2022). Late Breaking Demo.
+- Manco, I., Weck, B., Tovstogan, P., Won, M., & Bogdanov, D. (2022). [Song Describer: a platform for collecting textual descriptions of music recordings](https://ismir2022program.ismir.net/lbd_405.html). International Society for Music Information Retrieval Conference (ISMIR 2022). Late Breaking Demo.
 - Marcos-Fernández, J., Joglar-Ongay, L., Serra, X., & Bogdanov, D. (2022). [Audio analysis applications in the browser with Essentia.js](https://doi.org/10.5281/zenodo.6769303). Web Audio Conference (WAC 2022).
 - Tovstogan P., Bogdanov, D., Porter, A. (2021). [MediaEval 2021: Emotion and theme recognition in music using Jamendo](http://ceur-ws.org/Vol-3181/paper6.pdf). MediaEval 2021 Workshop.
 - Alonso-Jiménez, P., Bogdanov, D., & Serra, X. (2020). [Deep embeddings with Essentia models](http://hdl.handle.net/10230/45452). International Society for Music Information Retrieval Conference (ISMIR 2020). Late Breaking Demo.
