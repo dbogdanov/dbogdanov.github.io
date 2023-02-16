@@ -27,6 +27,9 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - 2003 -- 2007 - Researcher and developer at Computing Systems Laboratory, [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Moscow State University.
 
 ## Financed projects
+- 2022 -- Now - [AISMA](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/aisma/maximized) (AI models for Sound and Music Applications). Researcher and developer. Project co-supervision.
+- 2022 -- Now - [NextCore](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/235864778/maximized) (Next generation of music monitoring technology ). Project co-supervision.
+- 2022 -- Now - [Challenges and Opportunities in Music Tech](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/challenges-and-opportunities-in-music-tech/maximized). Researcher.
 - 2016 -- 2019 - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content, EC-ICT, H2020–6888382). Researcher and developer.
 - 2016 -- 2018 - [MINGUS](https://www.upf.edu/web/mtg/mingus) (Music Information Gathering, Structuring and Processing for Semantic Audio Applications, Ministerio de Economía y Competividad, TIN2015-69935-P MINECO/FEDER). Researcher and developer.
 - 2016 -- Now - [Maria de Maeztu](https://portal.upf.edu/web/mdm-dtic/-/music-classification-using-large-audio-music-collections-and-deep-learning#.V3D5QZ4vChc) (Machine learning approaches for structuring large sound and music collections). Researcher and developer.
@@ -36,11 +39,12 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - 2007 -- 2008 - [Pharos](http://www.mtg.upf.edu/research/projects/pharos) (Platform for searcH of Audiovisual Resources across Online Spaces, EC-IST, FP6-45035). Researcher.
 - 2004 -- 2007 - Financed projects by Moscow State University. Researcher and developer.
 
+
 ### R&D supervision for industrial partners
 - 2018 -- Now - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en): Music recommendation systems.
 - 2018 -- 2019 - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
 - 2018 -- 2019 - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
-- 2021 -- Now - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
+- 2021 -- 2022 - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
 
 
 ## Datasets and software
@@ -167,11 +171,12 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - My Musical Avatar. 9th International Workshop on Content-based Multimedia Indexing. 2011.
 - My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
 
-### Invited talks
-- Essentia: past, present, and future. BCN Music Technology Forum. 27-06-2019.
-- Music feature analysis with Essentia. MIP-Frontiers Summer School. 22-05-2019.
-- Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 22-02-2019.
-- The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 07-11-2011.
+### Invited talks and events
+- [Challenges and Opportunities in Music Tech: Open debate](https://www.upf.edu/web/mtg/challenges-and-opportunities-in-music-tech/open-debate). 2022-12-13.
+- Essentia: past, present, and future. BCN Music Technology Forum. 2019-06-27.
+- Music feature analysis with Essentia. MIP-Frontiers Summer School. 2019-05-22.
+- Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 2019-02-22.
+- The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 2011-11-07.
 
 ## Scientific services
 ### Organization of scientific events
