@@ -43,6 +43,24 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - 2021 -- Now - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
 
 
+## Datasets and software
+
+Open-source software projects I am involved in:
+- [Essentia](https://essentia.upf.edu/)
+- [Essentia.js](https://mtg.github.io/essentia.js/)
+- [Gaia](https://github.com/MTG/gaia)
+
+Open datasets I am involved in:
+- [AcousticBrainz](https://acousticbrainz.org/)
+- [The AcousticBrainz Genre Dataset](https://mtg.github.io/acousticbrainz-genre-dataset/)
+- [The MTG-Jamendo Dataset](https://mtg.github.io/mtg-jamendo-dataset/)
+- [The MusAV Dataset](https://mtg.github.io/musav-dataset/)
+- [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
+- [Freesound Datasets](https://annotator.freesound.org/)
+- [Freesound Loop Dataset](https://zenodo.org/record/3967852)
+- [ISMIR-2017-Discogs](https://dbogdanov.com/ismir2017-discogs/)
+
+
 ## Publications
 [Google Scholar](https://scholar.google.es/citations?user=YY2MoeAAAAAJ&hl=en&oi=ao) • [ORCID](https://orcid.org/0000-0002-9469-0633) • [Scopus](https://www.scopus.com/authid/detail.uri?authorId=35748642000) • [ResearchGate](https://www.researchgate.net/profile/Dmitry_Bogdanov)
 
