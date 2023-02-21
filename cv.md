@@ -229,8 +229,8 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 
 ### PhD thesis supervision
 - [Philip Tovstogan](https://philtgun.me) - Exploration of Music Collections with Audio Embeddings, defended in 2022
-- [Pablo Alonso Jimenez](https://palonso.github.io) - ongoing
-- [Luis Joglar](https://www.luisjoglar.com) - ongoing
+- [Pablo Alonso Jimenez](https://palonso.github.io) - Deep Embeddings for Music Classification, ongoing
+- [Luis Joglar](https://www.luisjoglar.com)
 
 ### Jury memberships of PhD defenses
 - Daniel Gómez - 04/2017 - Drum Rhythm in Electronic Dance Music, Universitat Pompeu Fabra, Barcelona, Spain
