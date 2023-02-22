@@ -11,7 +11,7 @@ layout: page
 
 <p>I am the lead developer of <a href="https://essentia.upf.edu">Essentia</a>, an open-source C++/Python library for audio analysis and audio-based music information retrieval. My work includes the design and implementation of new audio analysis algorithms, project documentation, and supervision of related research.</p>
 
-<p>I am also one of the coordinators of <a href="https://acousticbrainz.org">AcousticBrainz</a>, an open database of music features extracted from audio with over 23 million submissions, bridging the gap between audio analysis technology and the broader open music metadata community.</p>
+<p>I am also one of the coordinators of <a href="https://acousticbrainz.org">AcousticBrainz</a>, an open database of music features extracted from audio with over 29 million submissions, bridging the gap between audio analysis technology and the broader open music metadata community.</p>
 
 <p>I serve as a supervisor in various industrial R&D projects held by Music Technology Group in collaboration with industrial partners (such as <a href="https://www.lacupulamusic.com/">LaCúpula Music</a> / <a href="https://sonosuite.com">SonoSuite</a>, <a href="https://www.kakaocorp.com/service/KakaoMusic?lang=en">Kakao</a>, <a href="https://www.flits.live/">Flits</a>, <a href="https://www.heardis.com">HearDis!</a>, and others). In addition, at the university, I take part in teaching activities for the <a href="https://www.upf.edu/web/smc">Master in Sound and Music Computing</a> program.</p>
 
