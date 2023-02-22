@@ -28,6 +28,7 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 ## Financed projects
 - 2022 -- Now - [AISMA](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/aisma/maximized) (AI models for Sound and Music Applications). Researcher and developer. Project co-supervision.
+- 2020 -- Now - [Musical AI](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/musical-ai/maximized) (Artificial intelligence to support musical experiences: towards a data-driven, human-centred approach). Researcher and developer.
 - 2022 -- Now - [NextCore](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/235864778/maximized) (Next generation of music monitoring technology, Ministry of Science and Innovation of the Spanish Government, RTC2019-007248-7). Project co-supervision.
 - 2022 -- Now - [Challenges and Opportunities in Music Tech](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/challenges-and-opportunities-in-music-tech/maximized). Researcher.
 - 2016 -- 2019 - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content, EC-ICT, H2020–6888382). Researcher and developer.
