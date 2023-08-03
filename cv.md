@@ -77,6 +77,10 @@ Open datasets I am involved in:
 - Bogdanov, D., Serrà J., Wack N., Herrera P., & Serra X. (2011). [Unifying low-level and high-level music similarity measures](http://hdl.handle.net/10230/34780). IEEE Transactions on Multimedia. 13(4).
 
 ### Conference proceedings (peer-reviewed)
+2023
+- Alonso-Jiménez, P., Serra, X., & Bogdanov, D. (2023). Efficient supervised training of audio transformers for music representation learning. International Society for Music Information Retrieval Conference (ISMIR 2023). Accepted to publication.
+- Alonso-Jiménez, P., Favory, X., Foroughmand, H., Bourdalas, G., Serra, X., Lidy, T., & Bogdanov, D. (2023). [Pre-training strategies using contrastive learning and playlist information for music classification and similarity](http://hdl.handle.net/10230/56564). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
+
 2022
 - Bogdanov, D., Lizarraga-Seijas, X., Alonso-Jiménez, P., & Serra, X. (2022). [MusAV: A dataset of relative arousal-valence annotations for validation of audio models](http://hdl.handle.net/10230/54181). International Society for Music Information Retrieval Conference (ISMIR 2022).
 - Alonso-Jiménez, P., Serra, X., & Bogdanov, D. (2022). [Music representation learning based on editorial metadata from Discogs](https://hdl.handle.net/10230/54158). International Society for Music Information Retrieval Conference (ISMIR 2022).
