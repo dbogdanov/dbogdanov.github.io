@@ -43,9 +43,14 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 ### R&D supervision for industrial partners
 - 2018 -- 2022 - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en): Music recommendation systems.
-- 2018 -- 2019 - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
+- 2018 -- 2019 - [LaCúpula Music/SonoSuite](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
 - 2018 -- 2019 - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
 - 2021 -- 2022 - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
+
+
+### Participation in other R&D industrial projects
+- 2022 -- Now - [VoctroLabs/VoiceMod](https://www.voicemod.net/): Voice recording audio quality analysis.
+- 2023 -- Now - [Odisei](https://odiseimusic.com/): Real-time saxophone pitch detection.
 
 
 ## Datasets and software
