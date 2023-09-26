@@ -179,17 +179,22 @@ Open datasets I am involved in:
 - Bogdanov, D. (2013). [From music similarity to music recommendation: Computational approaches based on
 audio features and metadata](https://hdl.handle.net/10803/123776). Universitat Pompeu Fabra, Barcelona, Spain.
 
-### Demos
-- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. European Research Music Conference. 11.06.2018.
-- My Musical Avatar. 9th International Workshop on Content-based Multimedia Indexing. 2011.
-- My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
 
-### Invited talks and events
+## Invited talks and events
 - [Challenges and Opportunities in Music Tech: Open debate](https://www.upf.edu/web/mtg/challenges-and-opportunities-in-music-tech/open-debate). 2022-12-13.
 - Essentia: past, present, and future. BCN Music Technology Forum. 2019-06-27.
 - Music feature analysis with Essentia. MIP-Frontiers Summer School. 2019-05-22.
 - Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 2019-02-22.
 - The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 2011-11-07.
+
+### In media
+- [La música del futuro, RTVE](https://www.rtve.es/play/videos/el-cazador-de-cerebros/musica-futuro/6928858/). TV documentary. 2023-07-10.
+
+### Demos
+- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. European Research Music Conference. 11.06.2018.
+- My Musical Avatar. 9th International Workshop on Content-based Multimedia Indexing. 2011.
+- My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
+
 
 ## Scientific services
 ### Organization of scientific events
