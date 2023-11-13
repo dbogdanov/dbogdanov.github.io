@@ -216,6 +216,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - Journal of the Audio Engineering Society (JAES)
 
 ### Reviewer for conferences
+- 24th International Society for Music Information Retrieval Conference (ISMIR), 2023
 - 23nd International Society for Music Information Retrieval Conference (ISMIR), 2022
 - 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021
 - 21st International Society for Music Information Retrieval Conference (ISMIR), 2020
