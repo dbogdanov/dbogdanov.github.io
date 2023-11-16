@@ -51,6 +51,7 @@ layout: page
     <li><a href="https://mtg.github.io/acousticbrainz-genre-dataset/">The AcousticBrainz Genre Dataset</a></li>
     <li><a href="https://mtg.github.io/mtg-jamendo-dataset/">The MTG-Jamendo Dataset</a></li>
     <li><a href="https://mtg.github.io/musav-dataset/">The MusAV Dataset</a></li>
+    <li><a href="https://zenodo.org/records/10072001">Song Describer Dataset</a></li>
     <li><a href="https://multimediaeval.github.io/2021-Emotion-and-Theme-Recognition-in-Music-Task/">MediaEval Emotion and Theme Recognition in Music Task</a></li>
     <li><a href="http://www.aes.org/e-lib/browse.cfm?elib=20338">Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution</a></li>
     <li><a href="https://www.upf.edu/web/mtg/musical-avatar">The Musical Avatar</a></li>
