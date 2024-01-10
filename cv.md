@@ -184,10 +184,12 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 
 
 ## Invited talks and events
+- Music audio representation learning research at MTG. [Deep Learning Barcelona Symposium 2023 (DLBCN 2023)](https://sites.google.com/view/dlbcn2023). 2023-12-21.
 - [Challenges and Opportunities in Music Tech: Open debate](https://www.upf.edu/web/mtg/challenges-and-opportunities-in-music-tech/open-debate). 2022-12-13.
-- Essentia: past, present, and future. BCN Music Technology Forum. 2019-06-27.
+- Essentia: past, present, and future. [BCN Music Technology Forum](https://www.upf.edu/web/mtg/musictechnologyforum). 2019-06-27.
 - Music feature analysis with Essentia. MIP-Frontiers Summer School. 2019-05-22.
 - Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 2019-02-22.
+- [Sónar+D 2017 Innovation Challenge](https://web.archive.org/web/20170618195511/http://sic.upf.edu/) mentor. 2017-06-13 - 2017-06-16.
 - The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 2011-11-07.
 
 ### In media
