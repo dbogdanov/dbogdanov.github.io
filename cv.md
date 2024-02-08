@@ -219,12 +219,12 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - Journal of the Audio Engineering Society (JAES)
 
 ### Reviewer for conferences
-- 24th International Society for Music Information Retrieval Conference (ISMIR), 2023
-- 23nd International Society for Music Information Retrieval Conference (ISMIR), 2022
+- 24th International Society for Music Information Retrieval Conference (ISMIR), 2023 - meta-reviewer
+- 23nd International Society for Music Information Retrieval Conference (ISMIR), 2022 - meta-reviewer
 - 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021
 - 21st International Society for Music Information Retrieval Conference (ISMIR), 2020
 - 1st Workshop on Designing Human-Centric MIR Systems, 2019
-- 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
+- 20th International Society for Music Information Retrieval Conference (ISMIR), 2019 - meta-reviewer
 - ACM RecSys Challenge 2018 Workshop, 2018
 - 18th International Society for Music Information Retrieval Conference (ISMIR), 2017
 - 19th International Conference on Digital Audio Effects (DAFx), 2016
