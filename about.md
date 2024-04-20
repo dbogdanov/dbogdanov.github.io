@@ -13,7 +13,7 @@ layout: page
 
 <p>I am also one of the coordinators of <a href="https://acousticbrainz.org">AcousticBrainz</a>, an open database of music features extracted from audio with over 29 million submissions, bridging the gap between audio analysis technology and the broader open music metadata community.</p>
 
-<p>I serve as a supervisor in various industrial R&D projects held by Music Technology Group in collaboration with industrial partners (such as <a href="https://www.lacupulamusic.com/">LaCúpula Music</a> / <a href="https://sonosuite.com">SonoSuite</a>, <a href="https://www.kakaocorp.com/service/KakaoMusic?lang=en">Kakao</a>, <a href="https://www.flits.live/">Flits</a>, <a href="https://www.heardis.com">HearDis!</a>, <a href="https://www.bmat.com/">BMAT</a>, and others). In addition, at the university, I take part in teaching activities for the <a href="https://www.upf.edu/web/smc">Master in Sound and Music Computing</a> program.</p>
+<p>I serve as a supervisor in various R&D projects held by Music Technology Group in collaboration with industrial partners (such as <a href="https://www.lacupulamusic.com/">LaCúpula Music</a> / <a href="https://sonosuite.com">SonoSuite</a>, <a href="https://www.kakaocorp.com/service/KakaoMusic?lang=en">Kakao</a>, <a href="https://www.flits.live/">Flits</a>, <a href="https://www.heardis.com">HearDis!</a>, <a href="https://www.bmat.com/">BMAT</a>, and others). In addition, at the university, I take part in teaching activities for the <a href="https://www.upf.edu/web/smc">Master in Sound and Music Computing</a> program.</p>
 
 <p>I graduated from <a href="http://www.msu.ru/en/">Moscow State University</a>  with a Diploma in Applied Math and Informatics in 2006 and received my Ph.D. in Information, Communication, and Audiovisual Technologies at the <a href="http://mtg.upf.edu/">Music Technology Group</a> of Pompeu Fabra University in 2013. My PhD thesis was focused on music recommendation systems using audio analysis and metadata.</p>
 
@@ -84,6 +84,8 @@ Read my <a href="{{ site.url }}/cv">CV</a> here.
 
 <h2>Music Bio</h2>
 
-<p>Over the past 15 years, I took part in various music projects, live performances, and events. Starting in 2005 as a co-founder, DJ, and promoter for an 8-bit music art community Chipcult in Russia, I have installed in Barcelona since 2007 and moved on exploring different music collaborations across styles, from hardware jams, sound art performances and freeform radio programs to club music and DJ sessions. I’ve participated in various local music festivals such as No-No-Logic 2009, Mostra Sonora 2010, Cau D'Orella 2011 & 2012, Curt Circuit Fest 2012, KonventPARAULA 2015, and VisualBrazil 2015.</p>
+<p>Over the past 19 years, I took part in various music projects, live performances, and events. Starting in 2005 as a co-founder, DJ, and promoter for an 8-bit music art community Chipcult in Russia, I have installed in Barcelona since 2007 and moved on exploring different music collaborations across styles, from hardware jams, sound art performances and freeform radio programs to club music and DJ sessions. I’ve participated in various local music festivals such as No-No-Logic 2009, Mostra Sonora 2010, Cau D'Orella 2011 & 2012, Curt Circuit Fest 2012, KonventPARAULA 2015, and VisualBrazil 2015.</p>
+
+<p>My most recent work includes <a href="https://permutation-records.com/">Permutation</a> with two EP releases (12”/DL) in <a href="https://www.discogs.com/master/1650128-Permutation-Many-Worlds">2019</a> and <a href="https://www.discogs.com/master/2659148-Permutation-Epicycles">2022</a>.</p>
 
 <p>See some of my projects <a href="https://dbogdanov.persona.co/music">here</a>.</p>
