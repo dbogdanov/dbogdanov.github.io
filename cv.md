@@ -83,8 +83,11 @@ Open datasets I am involved in:
 - Bogdanov, D., Serrà J., Wack N., Herrera P., & Serra X. (2011). [Unifying low-level and high-level music similarity measures](http://hdl.handle.net/10230/34780). IEEE Transactions on Multimedia. 13(4).
 
 ### Conference proceedings (peer-reviewed)
+2024
+- Alonso-Jiménez P, Pepino L, Batlle-Roca R, Zinemanas P, Bogdanov D, Serra X, Rocamora M. (2024). [Leveraging pre-trained autoencoders for interpretable prototype learning of music audio](http://hdl.handle.net/10230/59220). ICASSP 2024 Workshop on Explainable AI for Speech and Audio (XAI-SA).
+
 2023
-- Plachouras, C., Bogdanov, D., & Alonso-Jiménez, P. (2023). mir_ref: A representation evaluation framework for music information retrieval tasks. Machine Learning for Audio Workshop, Conference on Neural Information Processing Systems (NeurIPS 2023).
+- Plachouras, C., Bogdanov, D., & Alonso-Jiménez, P. (2023). [mir_ref: A representation evaluation framework for music information retrieval tasks](https://arxiv.org/abs/2312.05994). Machine Learning for Audio Workshop, Conference on Neural Information Processing Systems (NeurIPS 2023).
 - Manco, I., Weck, B., Doh, S., Zhang, Y., Bogdanov, D., Wu, Y., Chen, K., Tovstogan, P., Benetos, E., Quinton, E., Fazekas, G., Nam, J, & Won, M. (2023). [The Song Describer Dataset: a corpus of audio captions for music-and-language evaluation](https://arxiv.org/abs/2311.10057). Machine Learning for Audio Workshop, Conference on Neural Information Processing Systems (NeurIPS 2023).
 - Alonso-Jiménez, P., Serra, X., & Bogdanov, D. (2023). [Efficient supervised training of audio transformers for music representation learning](http://hdl.handle.net/10230/58023). International Society for Music Information Retrieval Conference (ISMIR 2023).
 - Alonso-Jiménez, P., Favory, X., Foroughmand, H., Bourdalas, G., Serra, X., Lidy, T., & Bogdanov, D. (2023). [Pre-training strategies using contrastive learning and playlist information for music classification and similarity](http://hdl.handle.net/10230/56564). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
