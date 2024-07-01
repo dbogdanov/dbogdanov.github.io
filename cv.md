@@ -187,21 +187,21 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 
 
 ## Invited talks and events
+- Essentia. [Sónar+D 2024 Project Area](https://web.archive.org/web/20240613090636/https://sonar.es/en/activity/project-area-viernes). 2024-06-13--2024-06-15.
 - Music audio representation learning research at MTG. [Deep Learning Barcelona Symposium 2023 (DLBCN 2023)](https://sites.google.com/view/dlbcn2023). 2023-12-21.
 - [Challenges and Opportunities in Music Tech: Open debate](https://www.upf.edu/web/mtg/challenges-and-opportunities-in-music-tech/open-debate). 2022-12-13.
 - Essentia: past, present, and future. [BCN Music Technology Forum](https://www.upf.edu/web/mtg/musictechnologyforum). 2019-06-27.
 - Music feature analysis with Essentia. MIP-Frontiers Summer School. 2019-05-22.
 - Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 2019-02-22.
-- [Sónar+D 2017 Innovation Challenge](https://web.archive.org/web/20170618195511/http://sic.upf.edu/) mentor. 2017-06-13 - 2017-06-16.
-- The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 2011-11-07.
+- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. [European Research Music Conference](https://eventum.upf.edu/19834/detail/european-research-music-conference.html). 2018-06-11.
+- [Sónar+D 2017 Innovation Challenge](https://web.archive.org/web/20170618195511/http://sic.upf.edu/) mentor. 2017-06-13--2017-06-16.
+- My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012. Demo.
+- The Musical Avatar. [Escola Superior de Música de Catalunya](https://www.esmuc.cat/), Seminaris de Sonologia. 2011-11-07.
+- My Musical Avatar. [9th International Workshop on Content-based Multimedia Indexing](http://www-vpu.eps.uam.es/misc/cbmi2011/). 2011. Demo.
 
-### In media
+
+## In media
 - [La música del futuro, RTVE](https://www.rtve.es/play/videos/el-cazador-de-cerebros/musica-futuro/6928858/). TV documentary. 2023-07-10.
-
-### Demos
-- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. European Research Music Conference. 11.06.2018.
-- My Musical Avatar. 9th International Workshop on Content-based Multimedia Indexing. 2011.
-- My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
 
 
 ## Scientific services
