@@ -27,10 +27,11 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - 2003 -- 2007 - Researcher and developer at Computing Systems Laboratory, [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Moscow State University.
 
 ## Financed projects
-- 2022 -- Now - [AISMA](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/aisma/maximized) (AI models for Sound and Music Applications). Researcher and developer. Project co-supervision.
-- 2020 -- Now - [Musical AI](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/musical-ai/maximized) (Artificial intelligence to support musical experiences: towards a data-driven, human-centred approach). Researcher and developer.
-- 2022 -- Now - [NextCore](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/235864778/maximized) (Next generation of music monitoring technology, Ministry of Science and Innovation of the Spanish Government, RTC2019-007248-7). Project co-supervision.
-- 2022 -- Now - [Challenges and Opportunities in Music Tech](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/challenges-and-opportunities-in-music-tech/maximized). Researcher.
+- 2023 -- 2026 - [UPF-BMAT Chair on Artificial Intelligence and Music](https://www.upf.edu/web/mtg/catedra-ia-musica)
+- 2022 -- 2024 - [AISMA](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/aisma/maximized) (AI models for Sound and Music Applications). Researcher and developer. Project co-supervision.
+- 2020 -- 2024 - [Musical AI](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/musical-ai/maximized) (Artificial intelligence to support musical experiences: towards a data-driven, human-centred approach). Researcher and developer.
+- 2022 -- 2024 - [NextCore](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/235864778/maximized) (Next generation of music monitoring technology, Ministry of Science and Innovation of the Spanish Government, RTC2019-007248-7). Project co-supervision.
+- 2022 -- 2023 - [Challenges and Opportunities in Music Tech](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/challenges-and-opportunities-in-music-tech/maximized). Researcher.
 - 2016 -- 2019 - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content, EC-ICT, H2020–6888382). Researcher and developer.
 - 2016 -- 2018 - [MINGUS](https://www.upf.edu/web/mtg/mingus) (Music Information Gathering, Structuring and Processing for Semantic Audio Applications, Ministerio de Economía y Competividad, TIN2015-69935-P MINECO/FEDER). Researcher and developer.
 - 2016 -- Now - [Maria de Maeztu](https://portal.upf.edu/web/mdm-dtic/-/music-classification-using-large-audio-music-collections-and-deep-learning#.V3D5QZ4vChc) (Machine learning approaches for structuring large sound and music collections). Researcher and developer.
@@ -49,8 +50,8 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 
 ### Participation in other R&D industrial projects
-- 2022 -- Now - [VoctroLabs/VoiceMod](https://www.voicemod.net/): Voice recording audio quality analysis.
-- 2023 -- Now - [Odisei](https://odiseimusic.com/): Real-time saxophone pitch detection.
+- 2022 -- 2023 - [VoctroLabs/VoiceMod](https://www.voicemod.net/): Voice recording audio quality analysis.
+- 2023 -- 2024 - [Odisei](https://odiseimusic.com/): Real-time saxophone pitch detection.
 
 
 ## Datasets and software
