@@ -27,10 +27,11 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - 2003 -- 2007 - Researcher and developer at Computing Systems Laboratory, [Faculty of Computational Mathematics and Cybernetics](https://cs.msu.ru/en), Moscow State University.
 
 ## Financed projects
-- 2022 -- Now - [AISMA](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/aisma/maximized) (AI models for Sound and Music Applications). Researcher and developer. Project co-supervision.
-- 2020 -- Now - [Musical AI](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/musical-ai/maximized) (Artificial intelligence to support musical experiences: towards a data-driven, human-centred approach). Researcher and developer.
-- 2022 -- Now - [NextCore](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/235864778/maximized) (Next generation of music monitoring technology, Ministry of Science and Innovation of the Spanish Government, RTC2019-007248-7). Project co-supervision.
-- 2022 -- Now - [Challenges and Opportunities in Music Tech](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/challenges-and-opportunities-in-music-tech/maximized). Researcher.
+- 2023 -- 2026 - [UPF-BMAT Chair on Artificial Intelligence and Music](https://www.upf.edu/web/mtg/catedra-ia-musica)
+- 2022 -- 2024 - [AISMA](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/aisma/maximized) (AI models for Sound and Music Applications). Researcher and developer. Project co-supervision.
+- 2020 -- 2024 - [Musical AI](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/musical-ai/maximized) (Artificial intelligence to support musical experiences: towards a data-driven, human-centred approach). Researcher and developer.
+- 2022 -- 2024 - [NextCore](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/id/235864778/maximized) (Next generation of music monitoring technology, Ministry of Science and Innovation of the Spanish Government, RTC2019-007248-7). Project co-supervision.
+- 2022 -- 2023 - [Challenges and Opportunities in Music Tech](https://www.upf.edu/web/mtg/ongoing-projects/-/asset_publisher/DneGVrJZ7tmE/content/challenges-and-opportunities-in-music-tech/maximized). Researcher.
 - 2016 -- 2019 - [AudioCommons](http://audiocommons.org/) (Technologies for the reuse of open audio content, EC-ICT, H2020–6888382). Researcher and developer.
 - 2016 -- 2018 - [MINGUS](https://www.upf.edu/web/mtg/mingus) (Music Information Gathering, Structuring and Processing for Semantic Audio Applications, Ministerio de Economía y Competividad, TIN2015-69935-P MINECO/FEDER). Researcher and developer.
 - 2016 -- Now - [Maria de Maeztu](https://portal.upf.edu/web/mdm-dtic/-/music-classification-using-large-audio-music-collections-and-deep-learning#.V3D5QZ4vChc) (Machine learning approaches for structuring large sound and music collections). Researcher and developer.
@@ -43,9 +44,14 @@ My projects include research and development for [Essentia](http://essentia.upf.
 
 ### R&D supervision for industrial partners
 - 2018 -- 2022 - [Kakao](https://www.kakaocorp.com/service/KakaoMusic?lang=en): Music recommendation systems.
-- 2018 -- 2019 - [LaCúpula Music](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
+- 2018 -- 2019 - [LaCúpula Music/SonoSuite](https://www.lacupulamusic.com/): Automatic quality assessment and semantic annotation of music audio for digital music distribution systems.
 - 2018 -- 2019 - [Flits](https://www.flits.live/): Automatic identification and semantic annotation of music audio in the context of live music concerts.
 - 2021 -- 2022 - [HearDis!](https://www.heardis.com): Automatic semantic music annotation for audio branding from audio.
+
+
+### Participation in other R&D industrial projects
+- 2022 -- 2023 - [VoctroLabs/VoiceMod](https://www.voicemod.net/): Voice recording audio quality analysis.
+- 2023 -- 2024 - [Odisei](https://odiseimusic.com/): Real-time saxophone pitch detection.
 
 
 ## Datasets and software
@@ -64,6 +70,7 @@ Open datasets I am involved in:
 - [Freesound Datasets](https://annotator.freesound.org/)
 - [Freesound Loop Dataset](https://zenodo.org/record/3967852)
 - [ISMIR-2017-Discogs](https://dbogdanov.com/ismir2017-discogs/)
+- [Song Describer Dataset](https://zenodo.org/records/10072001)
 
 
 ## Publications
@@ -77,6 +84,15 @@ Open datasets I am involved in:
 - Bogdanov, D., Serrà J., Wack N., Herrera P., & Serra X. (2011). [Unifying low-level and high-level music similarity measures](http://hdl.handle.net/10230/34780). IEEE Transactions on Multimedia. 13(4).
 
 ### Conference proceedings (peer-reviewed)
+2024
+- Alonso-Jiménez P, Pepino L, Batlle-Roca R, Zinemanas P, Bogdanov D, Serra X, Rocamora M. (2024). [Leveraging pre-trained autoencoders for interpretable prototype learning of music audio](http://hdl.handle.net/10230/59220). ICASSP 2024 Workshop on Explainable AI for Speech and Audio (XAI-SA).
+
+2023
+- Plachouras, C., Bogdanov, D., & Alonso-Jiménez, P. (2023). [mir_ref: A representation evaluation framework for music information retrieval tasks](https://arxiv.org/abs/2312.05994). Machine Learning for Audio Workshop, Conference on Neural Information Processing Systems (NeurIPS 2023).
+- Manco, I., Weck, B., Doh, S., Zhang, Y., Bogdanov, D., Wu, Y., Chen, K., Tovstogan, P., Benetos, E., Quinton, E., Fazekas, G., Nam, J, & Won, M. (2023). [The Song Describer Dataset: a corpus of audio captions for music-and-language evaluation](https://arxiv.org/abs/2311.10057). Machine Learning for Audio Workshop, Conference on Neural Information Processing Systems (NeurIPS 2023).
+- Alonso-Jiménez, P., Serra, X., & Bogdanov, D. (2023). [Efficient supervised training of audio transformers for music representation learning](http://hdl.handle.net/10230/58023). International Society for Music Information Retrieval Conference (ISMIR 2023).
+- Alonso-Jiménez, P., Favory, X., Foroughmand, H., Bourdalas, G., Serra, X., Lidy, T., & Bogdanov, D. (2023). [Pre-training strategies using contrastive learning and playlist information for music classification and similarity](http://hdl.handle.net/10230/56564). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023).
+
 2022
 - Bogdanov, D., Lizarraga-Seijas, X., Alonso-Jiménez, P., & Serra, X. (2022). [MusAV: A dataset of relative arousal-valence annotations for validation of audio models](http://hdl.handle.net/10230/54181). International Society for Music Information Retrieval Conference (ISMIR 2022).
 - Alonso-Jiménez, P., Serra, X., & Bogdanov, D. (2022). [Music representation learning based on editorial metadata from Discogs](https://hdl.handle.net/10230/54158). International Society for Music Information Retrieval Conference (ISMIR 2022).
@@ -170,17 +186,24 @@ Open datasets I am involved in:
 - Bogdanov, D. (2013). [From music similarity to music recommendation: Computational approaches based on
 audio features and metadata](https://hdl.handle.net/10803/123776). Universitat Pompeu Fabra, Barcelona, Spain.
 
-### Demos
-- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. European Research Music Conference. 11.06.2018.
-- My Musical Avatar. 9th International Workshop on Content-based Multimedia Indexing. 2011.
-- My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012.
 
-### Invited talks and events
+## Invited talks and events
+- Essentia. [Sónar+D 2024 Project Area](https://web.archive.org/web/20240613090636/https://sonar.es/en/activity/project-area-viernes). 2024-06-13--2024-06-15.
+- Music audio representation learning research at MTG. [Deep Learning Barcelona Symposium 2023 (DLBCN 2023)](https://sites.google.com/view/dlbcn2023). 2023-12-21.
 - [Challenges and Opportunities in Music Tech: Open debate](https://www.upf.edu/web/mtg/challenges-and-opportunities-in-music-tech/open-debate). 2022-12-13.
-- Essentia: past, present, and future. BCN Music Technology Forum. 2019-06-27.
+- Essentia: past, present, and future. [BCN Music Technology Forum](https://www.upf.edu/web/mtg/musictechnologyforum). 2019-06-27.
 - Music feature analysis with Essentia. MIP-Frontiers Summer School. 2019-05-22.
 - Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 2019-02-22.
-- The Musical Avatar. Escola Superior de Música de Catalunya, Seminaris de Sonologia. 2011-11-07.
+- Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. [European Research Music Conference](https://eventum.upf.edu/19834/detail/european-research-music-conference.html). 2018-06-11.
+- [Sónar+D 2017 Innovation Challenge](https://web.archive.org/web/20170618195511/http://sic.upf.edu/) mentor. 2017-06-13--2017-06-16.
+- My Musical Avatar. Fira Recerca en Directe. Barcelona. 2012. Demo.
+- The Musical Avatar. [Escola Superior de Música de Catalunya](https://www.esmuc.cat/), Seminaris de Sonologia. 2011-11-07.
+- My Musical Avatar. [9th International Workshop on Content-based Multimedia Indexing](http://www-vpu.eps.uam.es/misc/cbmi2011/). 2011. Demo.
+
+
+## In media
+- [La música del futuro, RTVE](https://www.rtve.es/play/videos/el-cazador-de-cerebros/musica-futuro/6928858/). TV documentary. 2023-07-10.
+
 
 ## Scientific services
 ### Organization of scientific events
@@ -199,13 +222,13 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
 - Journal of the Audio Engineering Society (JAES)
 
-### Reviewer/meta-reviewer for conferences
-- 24th International Society for Music Information Retrieval Conference (ISMIR), 2023
-- 23nd International Society for Music Information Retrieval Conference (ISMIR), 2022
+### Reviewer for conferences
+- 24th International Society for Music Information Retrieval Conference (ISMIR), 2023 - meta-reviewer
+- 23nd International Society for Music Information Retrieval Conference (ISMIR), 2022 - meta-reviewer
 - 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021
 - 21st International Society for Music Information Retrieval Conference (ISMIR), 2020
 - 1st Workshop on Designing Human-Centric MIR Systems, 2019
-- 20th International Society for Music Information Retrieval Conference (ISMIR), 2019
+- 20th International Society for Music Information Retrieval Conference (ISMIR), 2019 - meta-reviewer
 - ACM RecSys Challenge 2018 Workshop, 2018
 - 18th International Society for Music Information Retrieval Conference (ISMIR), 2017
 - 19th International Conference on Digital Audio Effects (DAFx), 2016
@@ -231,8 +254,10 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - 2006 -- 2007 - Algorithms and algorithmic languages, Moscow State University, undergraduate course (practicals)
 
 ### PhD thesis supervision
-- [Philip Tovstogan](https://philtgun.me) - Exploration of Music Collections with Audio Embeddings, defended in 2022
+- [Recep Oğuz Araz](https://www.linkedin.com/in/recep-o%C4%9Fuz-araz-930a39157/) - Music representation learning,
+  ongoing.
 - [Pablo Alonso Jimenez](https://palonso.github.io) - Deep Embeddings for Music Classification, ongoing
+- [Philip Tovstogan](https://philtgun.me) - Exploration of Music Collections with Audio Embeddings, defended in 2022
 - [Luis Joglar](https://www.luisjoglar.com)
 
 ### Jury memberships of PhD defenses
