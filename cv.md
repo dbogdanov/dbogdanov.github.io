@@ -85,7 +85,9 @@ Open datasets I am involved in:
 
 ### Conference proceedings (peer-reviewed)
 2024
-- Alonso-Jiménez P, Pepino L, Batlle-Roca R, Zinemanas P, Bogdanov D, Serra X, Rocamora M. (2024). [Leveraging pre-trained autoencoders for interpretable prototype learning of music audio](http://hdl.handle.net/10230/59220). ICASSP 2024 Workshop on Explainable AI for Speech and Audio (XAI-SA).
+- Oguz Araz R., Serra, X., Bogdanov, D. (2024).  [Discogs-VI: A musical version identification dataset based on public editorial metadata](https://arxiv.org/abs/2410.17400). International Society for Music Information Retrieval Conference (ISMIR 2024).
+- Weck, B., Manco, I., Benetos, E., Quinton, E., Fazekas, G., Bogdanov, D. [MuChoMusic: evaluating music understanding in multimodal audio-language models](https://arxiv.org/abs/2408.01337). International Society for Music Information Retrieval Conference (ISMIR 2024).
+- Alonso-Jiménez, P., Pepino, L., Batlle-Roca, R., Zinemanas, P., Bogdanov, D., Serra, X., Rocamora, M. (2024). [Leveraging pre-trained autoencoders for interpretable prototype learning of music audio](http://hdl.handle.net/10230/59220). ICASSP 2024 Workshop on Explainable AI for Speech and Audio (XAI-SA).
 
 2023
 - Plachouras, C., Bogdanov, D., & Alonso-Jiménez, P. (2023). [mir_ref: A representation evaluation framework for music information retrieval tasks](https://arxiv.org/abs/2312.05994). Machine Learning for Audio Workshop, Conference on Neural Information Processing Systems (NeurIPS 2023).
