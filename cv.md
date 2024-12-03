@@ -217,8 +217,9 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - MediaEval [AcousticBrainz Genre Task, 2017](https://multimediaeval.github.io/2017-AcousticBrainz-Genre-Task/).
 
 ### Reviewer for journals
-- IEEE Transactions on Multimedia (IEEE)
-- IEEE Signal Processing Magazine (IEEE)
+- IEEE Transactions on Multimedia
+- IEEE Signal Processing Magazine
+- IEEE Open Journal of Signal Processing
 - International Journal of Multimedia Information Retrieval (Springer)
 - Journal of Intelligent Information Systems (Springer)
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
