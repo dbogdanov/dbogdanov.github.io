@@ -267,6 +267,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - Daniel Gómez - 04/2017 - Drum Rhythm in Electronic Dance Music, Universitat Pompeu Fabra, Barcelona, Spain
 
 ## Awards
+- [ISMIR 2024, Best Paper Award](https://x.com/ISMIRConf/status/1855344610161070113)
 - [WAC 2021, Best Paper Award](https://webaudioconf2021.com/paper-c-4/)
 - [ISMIR 2020, Best Reproducibility Award](https://www.ismir2020.net/awards/)
 - [ACM Multimedia 2013, Best Open Source Software Award](https://web.archive.org/web/20131213084405/http://acmmm13.org/general-info/about-acm-multimedia-2013/)
