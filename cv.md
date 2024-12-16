@@ -266,6 +266,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 
 ### Jury memberships of PhD defenses
 - Daniel Gómez - 04/2017 - Drum Rhythm in Electronic Dance Music, Universitat Pompeu Fabra, Barcelona, Spain
+- Behzad Haki - 12/2024 - Design, Development, and Deployment of Real-Time Drum Accompaniment Systems, Universitat Pompeu Fabra, Barcelona, Spain
 
 ## Awards
 - [ISMIR 2024, Best Paper Award](https://x.com/ISMIRConf/status/1855344610161070113)
