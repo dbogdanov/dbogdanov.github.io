@@ -220,6 +220,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - IEEE Transactions on Multimedia
 - IEEE Signal Processing Magazine
 - IEEE Open Journal of Signal Processing
+- IEEE Transactions on Affective Computing
 - International Journal of Multimedia Information Retrieval (Springer)
 - Journal of Intelligent Information Systems (Springer)
 - Transactions of the International Society for Music Information Retrieval (TISMIR)
