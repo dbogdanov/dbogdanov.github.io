@@ -66,6 +66,7 @@ Open datasets I am involved in:
 - [The AcousticBrainz Genre Dataset](https://mtg.github.io/acousticbrainz-genre-dataset/)
 - [The MTG-Jamendo Dataset](https://mtg.github.io/mtg-jamendo-dataset/)
 - [The MusAV Dataset](https://mtg.github.io/musav-dataset/)
+- [Discogs-VI Dataset](https://mtg.github.io/discogs-vi-dataset/)
 - [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
 - [Freesound Datasets](https://annotator.freesound.org/)
 - [Freesound Loop Dataset](https://zenodo.org/record/3967852)
