@@ -85,8 +85,12 @@ Open datasets I am involved in:
 - Bogdanov, D., Serrà J., Wack N., Herrera P., & Serra X. (2011). [Unifying low-level and high-level music similarity measures](http://hdl.handle.net/10230/34780). IEEE Transactions on Multimedia. 13(4).
 
 ### Conference proceedings (peer-reviewed)
+2025
+- Araz, R.O., Cortès-Sebastià, G., Molina, E., Serrà, J., Serra, X., Mitsufuji, Y., Bogdanov, D. (2025). [Enhancing neural audio fingerprint robustness to audio degradation for music identification](https://arxiv.org/abs/2506.22661). International Society for Music Information Retrieval Conference (ISMIR 2025), in press.
+- Serrà, J., Araz, R.O., Bogdanov, D., Mitsufuji, Y. (2025). [Supervised contrastive learning from weakly-labeled audio segments for musical version matching](https://arxiv.org/abs/2502.16936). International Conference on Machine Learning (ICML 2025), in press.
+
 2024
-- Oguz Araz R., Serra, X., Bogdanov, D. (2024). [Discogs-VI: A musical version identification dataset based on public editorial metadata](https://arxiv.org/abs/2410.17400). International Society for Music Information Retrieval Conference (ISMIR 2024).
+- Araz R.O., Serra, X., Bogdanov, D. (2024). [Discogs-VI: A musical version identification dataset based on public editorial metadata](https://arxiv.org/abs/2410.17400). International Society for Music Information Retrieval Conference (ISMIR 2024).
 - Weck, B., Manco, I., Benetos, E., Quinton, E., Fazekas, G., Bogdanov, D. [MuChoMusic: evaluating music understanding in multimodal audio-language models](https://arxiv.org/abs/2408.01337). International Society for Music Information Retrieval Conference (ISMIR 2024).
 - Oguz Araz R., Bogdanov, D., Alonso-Jiménez, P., Font, F. (2024). [Evaluation of deep audio representations for semantic sound similarity](https://doi.org/10.1109/CBMI62980.2024.10859250). International Conference on Content-Based Multimedia Indexing (CBMI 2024).
 - Alonso-Jiménez, P., Pepino, L., Batlle-Roca, R., Zinemanas, P., Bogdanov, D., Serra, X., Rocamora, M. (2024). [Leveraging pre-trained autoencoders for interpretable prototype learning of music audio](http://hdl.handle.net/10230/59220). ICASSP 2024 Workshop on Explainable AI for Speech and Audio (XAI-SA).
