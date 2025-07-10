@@ -72,6 +72,7 @@ Open datasets I am involved in:
 - [Freesound Loop Dataset](https://zenodo.org/record/3967852)
 - [ISMIR-2017-Discogs](https://dbogdanov.com/ismir2017-discogs/)
 - [Song Describer Dataset](https://zenodo.org/records/10072001)
+- [MuChoMusic](https://mulab-mir.github.io/muchomusic/)
 
 
 ## Publications
