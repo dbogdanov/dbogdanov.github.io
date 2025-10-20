@@ -202,6 +202,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - Music audio representation learning research at MTG. [Deep Learning Barcelona Symposium 2023 (DLBCN 2023)](https://sites.google.com/view/dlbcn2023). 2023-12-21.
 - [Challenges and Opportunities in Music Tech: Open debate](https://www.upf.edu/web/mtg/challenges-and-opportunities-in-music-tech/open-debate). 2022-12-13.
 - Essentia: past, present, and future. [BCN Music Technology Forum](https://www.upf.edu/web/mtg/musictechnologyforum). 2019-06-27.
+- Introduction to Music Information Retreival using Essentia.js. [Web Audio Conference 2021](https://webaudioconf.com/posts/2021_61/). 2021-07-06.
 - Music feature analysis with Essentia. MIP-Frontiers Summer School. 2019-05-22.
 - Audio analysis and music information retrieval at MTG. KAISTxSNU Music and Audio Workshop. 2019-02-22.
 - Essentia: Open-source library and tools for audio and music analysis, description, and synthesis. Poster session. [European Research Music Conference](https://eventum.upf.edu/19834/detail/european-research-music-conference.html). 2018-06-11.
