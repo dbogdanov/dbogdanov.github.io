@@ -87,8 +87,10 @@ Open datasets I am involved in:
 
 ### Conference proceedings (peer-reviewed)
 2025
-- Araz, R.O., Cortès-Sebastià, G., Molina, E., Serrà, J., Serra, X., Mitsufuji, Y., Bogdanov, D. (2025). [Enhancing neural audio fingerprint robustness to audio degradation for music identification](https://arxiv.org/abs/2506.22661). International Society for Music Information Retrieval Conference (ISMIR 2025), in press.
-- Serrà, J., Araz, R.O., Bogdanov, D., Mitsufuji, Y. (2025). [Supervised contrastive learning from weakly-labeled audio segments for musical version matching](https://arxiv.org/abs/2502.16936). International Conference on Machine Learning (ICML 2025), in press.
+- Alonso-Jiménez, P., Ramoneda, P., Araz, R.O., Poltronieri, A., & Bogdanov, D. (2025). [OMAR-RQ: Open Music Audio Representation Model Trained with Multi-Feature Masked Token Prediction](https://arxiv.org/abs/2507.03482). ACM International Conference on Multimedia (ACM Multimedia 2025).
+- Kim, S.-G., Alonso-Jiménez, P., Bechtloff, T., Sammler, D., & Bogdanov, D. (2025). [ManyMusic: An Open-access Music Audio Dataset for Human Experiments on Musical Emotions](https://zenodo.org/records/17346525). 3rd Workshop on Human-Centric Music Information Research (HCMIR25).
+- Araz, R.O., Cortès-Sebastià, G., Molina, E., Serrà, J., Serra, X., Mitsufuji, Y., Bogdanov, D. (2025). [Enhancing neural audio fingerprint robustness to audio degradation for music identification](https://arxiv.org/abs/2506.22661). International Society for Music Information Retrieval Conference (ISMIR 2025).
+- Serrà, J., Araz, R.O., Bogdanov, D., Mitsufuji, Y. (2025). [Supervised contrastive learning from weakly-labeled audio segments for musical version matching](https://arxiv.org/abs/2502.16936). International Conference on Machine Learning (ICML 2025).
 
 2024
 - Araz R.O., Serra, X., Bogdanov, D. (2024). [Discogs-VI: A musical version identification dataset based on public editorial metadata](https://arxiv.org/abs/2410.17400). International Society for Music Information Retrieval Conference (ISMIR 2024).
