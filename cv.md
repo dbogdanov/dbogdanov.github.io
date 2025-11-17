@@ -62,17 +62,18 @@ Open-source software projects I am involved in:
 - [Gaia](https://github.com/MTG/gaia)
 
 Open datasets I am involved in:
-- [AcousticBrainz](https://acousticbrainz.org/)
-- [The AcousticBrainz Genre Dataset](https://mtg.github.io/acousticbrainz-genre-dataset/)
-- [The MTG-Jamendo Dataset](https://mtg.github.io/mtg-jamendo-dataset/)
-- [The MusAV Dataset](https://mtg.github.io/musav-dataset/)
-- [Discogs-VI Dataset](https://mtg.github.io/discogs-vi-dataset/)
-- [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/)
-- [Freesound Datasets](https://annotator.freesound.org/)
-- [Freesound Loop Dataset](https://zenodo.org/record/3967852)
+- [AcousticBrainz](https://acousticbrainz.org/) - music audio analysis metadata for over 7.5M unique music recordings.
+- [The AcousticBrainz Genre Dataset](https://mtg.github.io/acousticbrainz-genre-dataset/) - genre annotations metadata from Discogs, AllMusic, Last.fm and Tagtraum mapped to AcousticBrainz.
+- [The MTG-Jamendo Dataset](https://mtg.github.io/mtg-jamendo-dataset/) - open audio benchmark dataset for music audio tagging (genres, mood/theme, instrumentation).
+- [The MusAV Dataset](https://mtg.github.io/musav-dataset/) - benchmark dataset for arousal/valence music emotion recognition.
+- [Discogs-VI Dataset](https://mtg.github.io/discogs-vi-dataset/) - musical version metadata mapped to YouTube (493K versions of 98K compositions) for research on music version identification.
+- [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/) -  dataset for audio-based playlist generation and music tagging.
+- [Freesound Datasets](https://annotator.freesound.org/) -  a platform for the collaborative creation of open audio datasets based on Freesound sounds.
+- [Freesound Loop Dataset](https://zenodo.org/record/3967852) - open audio loops with tempo, key, genre and instrumentation annotations.
 - [ISMIR-2017-Discogs](https://dbogdanov.com/ismir2017-discogs/)
-- [Song Describer Dataset](https://zenodo.org/records/10072001)
-- [MuChoMusic](https://mulab-mir.github.io/muchomusic/)
+- [Song Describer Dataset](https://zenodo.org/records/10072001) - open audio benchmark dataset for evaluating music captioning, text-to-music generation and music-language retrieval.
+- [MuChoMusic](https://mulab-mir.github.io/muchomusic/) - open audio benchmark dataset for evaluating audio-languate models.
+- [ManyMusic](https://doi.org/10.5281/zenodo.17346525) - open audio dataset for psychological and neuroscientific research on music-evoked emotions.
 
 
 ## Publications
