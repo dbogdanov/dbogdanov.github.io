@@ -68,7 +68,7 @@ Read my <a href="{{ site.url }}/cv">CV</a> here.
 
 <h2>Music Bio</h2>
 
-<p>Over the past 19 years, I took part in various music projects, live performances, and events. Starting in 2005 as a co-founder, DJ, and promoter for an 8-bit music art community Chipcult in Russia, I have installed in Barcelona since 2007 and moved on exploring different music collaborations across styles, from hardware jams, sound art performances and freeform radio programs to club music and DJ sessions. I’ve participated in various local music festivals such as No-No-Logic 2009, Mostra Sonora 2010, Cau D'Orella 2011 & 2012, Curt Circuit Fest 2012, KonventPARAULA 2015, and VisualBrazil 2015.</p>
+<p>Over the past 20 years, I took part in various music projects, live performances, and events. Starting in 2005 as a co-founder, DJ, and promoter for an 8-bit music art community Chipcult in Russia, I have installed in Barcelona since 2007 and moved on exploring different music collaborations across styles, from hardware jams, sound art performances and freeform radio programs to club music and DJ sessions. I’ve participated in various local music festivals such as No-No-Logic 2009, Mostra Sonora 2010, Cau D'Orella 2011 & 2012, Curt Circuit Fest 2012, KonventPARAULA 2015, and VisualBrazil 2015.</p>
 
 <p>My most recent work includes <a href="https://permutation-records.com/">Permutation</a> with two EP releases (12”/DL) in <a href="https://www.discogs.com/master/1650128-Permutation-Many-Worlds">2019</a> and <a href="https://www.discogs.com/master/2659148-Permutation-Epicycles">2022</a>.</p>
 
