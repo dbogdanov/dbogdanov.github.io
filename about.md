@@ -51,7 +51,7 @@ layout: page
 </ul>
 <ul>	
     <li><a href="https://www.linkedin.com/in/dibogdanov/">Linkedin</a></li>
-    <li><a href="https://twitter.com/di_bogdanov">Twitter</a></li>
+    <li><a href="https://bsky.app/profile/dbogdanov.bsky.social">Bluesky</a></li>
     <li><a href="https://github.com/dbogdanov">Github</a></li>
 </ul>
 
