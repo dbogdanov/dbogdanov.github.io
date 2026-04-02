@@ -38,18 +38,11 @@ layout: page
     <li>Musicology of electronic music</li>
 </ul>
 
+
 <h2><a href="{{ site.url }}/cv/#software-and-datasets">Software and datasets</a></h2>
 
 
-<h2>Publications</h2>
-<ul>
-    <li>See <a href="{{ site.url }}/cv/#publications">the full list of my publications</a></li>
-    <li><a href="https://scholar.google.es/citations?user=YY2MoeAAAAAJ&hl=en&oi=ao">Google Scholar</a></li>
-    <li><a href="https://orcid.org/0000-0002-9469-0633">ORCID</a></li>
-    <li><a href="https://www.scopus.com/authid/detail.uri?authorId=35748642000">Scopus</a></li>
-    <li><a href="https://www.researchgate.net/profile/Dmitry_Bogdanov">ResearchGate</a></li>
-    <li><a href="http://hdl.handle.net/10803/123776">PhD Thesis</a></li>
-</ul>
+<h2><a href="{{ site.url }}/cv/#publications">Publications</a></h2>
 
 
 <h2>Contact</h2>
