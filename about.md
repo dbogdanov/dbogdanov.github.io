@@ -45,6 +45,9 @@ layout: page
 <h2><a href="{{ site.url }}/cv/#publications">Publications</a></h2>
 
 
+<h2><a href="{{ site.url }}/cv">CV</a></h2>
+
+
 <h2>Contact</h2>
 <ul>
     <li><a href="mailto:dmitry.bogdanov@upf.edu">dmitry.bogdanov@upf.edu</a></li>
@@ -55,9 +58,6 @@ layout: page
     <li><a href="https://github.com/dbogdanov">Github</a></li>
 </ul>
 
-
-<h2>CV</h2>
-Read my <a href="{{ site.url }}/cv">CV</a> here.
 
 <h2>Music Bio</h2>
 
