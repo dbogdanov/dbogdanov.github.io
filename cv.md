@@ -72,7 +72,8 @@ Open datasets I am involved in:
 - [Freesound Loop Dataset](https://zenodo.org/record/3967852) - open audio loops with tempo, key, genre and instrumentation annotations.
 - [ISMIR-2017-Discogs](https://dbogdanov.com/ismir2017-discogs/)
 - [Song Describer Dataset](https://zenodo.org/records/10072001) - open audio benchmark dataset for evaluating music captioning, text-to-music generation and music-language retrieval.
-- [MuChoMusic](https://mulab-mir.github.io/muchomusic/) - open audio benchmark dataset for evaluating audio-languate models.
+- [MuChoMusic](https://mulab-mir.github.io/muchomusic/) - open music audio benchmark dataset for evaluating music understanding in audio-language models.
+- [HumMusQA](https://zenodo.org/records/18462524) - open music audio benchmark dataset for evaluating music understanding in audio-language models.
 - [ManyMusic](https://doi.org/10.5281/zenodo.17346525) - open audio dataset for psychological and neuroscientific research on music-evoked emotions.
 
 
