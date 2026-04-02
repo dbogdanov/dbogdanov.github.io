@@ -89,7 +89,7 @@ Open datasets I am involved in:
 ### Conference proceedings (peer-reviewed)
 2026
 - Ramoneda, P., Alonso-Jiménez, P., Oramas, S., Serra, X., Bogdanov, D. (2026). [Benchmarking music autotagging with MGPHot expert annotations vs. generic tag datasets](https://arxiv.org/abs/2509.06936). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026) (Accepted).
-- Weck, B., Puentes, P., Poltronieri, A., Prabhu, S., Bogdanov, D. (2026). HumMusQA: A human-written music understanding QA benchmark dataset. Workshop on NLP for Music and Audio (NLP4MusA 2026) (Accepted).
+- Weck, B., Puentes, P., Poltronieri, A., Prabhu, S., Bogdanov, D. (2026). [HumMusQA: A human-written music understanding QA benchmark dataset](https://arxiv.org/abs/2603.27877). Workshop on NLP for Music and Audio (NLP4MusA 2026).
 
 2025
 - Alonso-Jiménez, P., Ramoneda, P., Araz, R.O., Poltronieri, A., & Bogdanov, D. (2025). [OMAR-RQ: Open Music Audio Representation Model Trained with Multi-Feature Masked Token Prediction](https://arxiv.org/abs/2507.03482). ACM International Conference on Multimedia (ACM Multimedia 2025).
