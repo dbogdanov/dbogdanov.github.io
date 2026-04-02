@@ -54,7 +54,7 @@ My projects include research and development for [Essentia](http://essentia.upf.
 - 2023 -- 2024 - [Odisei](https://odiseimusic.com/): Real-time saxophone pitch detection.
 
 
-## Datasets and software
+## Software and datasets
 
 Open-source software projects I am involved in:
 - [Essentia](https://essentia.upf.edu/)
