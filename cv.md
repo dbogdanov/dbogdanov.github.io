@@ -89,7 +89,11 @@ Open datasets I am involved in:
 
 ### Conference proceedings (peer-reviewed)
 2026
-- Ramoneda, P., Alonso-Jiménez, P., Oramas, S., Serra, X., Bogdanov, D. (2026). [Benchmarking music autotagging with MGPHot expert annotations vs. generic tag datasets](https://arxiv.org/abs/2509.06936). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026) (Accepted).
+- Alonso-Jiménez, P., Lizarraga-Seijas, X., Serra, X., Bogdanov, D. (2026). AllMusicCaps: Album reviews as complementary supervision for music CLAP. International Society for Music Information Retrieval Conference (ISMIR 2026) (Accepted).
+- Kanatas, A.N., Kong, Y., Alonso-Jiménez, P., Serra, X., Bogdanov, D. (2026) What makes a good layer? Assessing the layer-wise intrinsic properties of music foundation models. International Society for Music Information Retrieval Conference (ISMIR 2026) (Accepted).
+- Araz, R.O., Serrà, J.,  Mitsufuji, Y., Serra, X., Bogdanov, D. (2026). Unified music identification for tracks and versions. International Society for Music Information Retrieval Conference (ISMIR 2026) (Accepted).
+- Hachmeier, S., Araz, R.O., Bogdanov, D., Jäschke, R., Serra, X. (2026). Towards robust version identification in the wild: A dataset, benchmark, and fine-tuning study. International Society for Music Information Retrieval Conference (ISMIR 2026) (Accepted).
+- Ramoneda, P., Alonso-Jiménez, P., Oramas, S., Serra, X., Bogdanov, D. (2026). [Benchmarking music autotagging with MGPHot expert annotations vs. generic tag datasets](https://arxiv.org/abs/2509.06936). IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2026).
 - Weck, B., Puentes, P., Poltronieri, A., Prabhu, S., Bogdanov, D. (2026). [HumMusQA: A human-written music understanding QA benchmark dataset](https://arxiv.org/abs/2603.27877). Workshop on NLP for Music and Audio (NLP4MusA 2026).
 
 2025
