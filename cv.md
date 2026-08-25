@@ -67,14 +67,15 @@ Open datasets I am involved in:
 - [The MTG-Jamendo Dataset](https://mtg.github.io/mtg-jamendo-dataset/) - open audio benchmark dataset for music audio tagging (genres, mood/theme, instrumentation).
 - [The MusAV Dataset](https://mtg.github.io/musav-dataset/) - benchmark dataset for arousal/valence music emotion recognition.
 - [Discogs-VI Dataset](https://mtg.github.io/discogs-vi-dataset/) - musical version metadata mapped to YouTube (493K versions of 98K compositions) for research on music version identification.
-- [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/) -  dataset for audio-based playlist generation and music tagging.
-- [Freesound Datasets](https://annotator.freesound.org/) -  a platform for the collaborative creation of open audio datasets based on Freesound sounds.
+- [Melon Playlist Dataset](https://mtg.github.io/melon-playlist-dataset/) - dataset for audio-based playlist generation and music tagging.
+- [Freesound Datasets](https://annotator.freesound.org/) - a platform for the collaborative creation of open audio datasets based on Freesound sounds.
 - [Freesound Loop Dataset](https://zenodo.org/record/3967852) - open audio loops with tempo, key, genre and instrumentation annotations.
 - [ISMIR-2017-Discogs](https://dbogdanov.com/ismir2017-discogs/)
 - [Song Describer Dataset](https://zenodo.org/records/10072001) - open audio benchmark dataset for evaluating music captioning, text-to-music generation and music-language retrieval.
 - [MuChoMusic](https://mulab-mir.github.io/muchomusic/) - open music audio benchmark dataset for evaluating music understanding in audio-language models.
 - [HumMusQA](https://zenodo.org/records/18462524) - open music audio benchmark dataset for evaluating music understanding in audio-language models.
 - [ManyMusic](https://doi.org/10.5281/zenodo.17346525) - open audio dataset for psychological and neuroscientific research on music-evoked emotions.
+- [AllMusicCaps](https://huggingface.co/datasets/mtg-upf/allmusiccaps) - large-scale music–text caption dataset for text–audio representation learning.
 
 
 ## Publications
