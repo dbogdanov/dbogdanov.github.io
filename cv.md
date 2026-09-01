@@ -281,6 +281,7 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - 2006 -- 2007 - Algorithms and algorithmic languages, Moscow State University, undergraduate course (practicals)
 
 ### PhD thesis supervision
+- [Angelos-Nikolaos Kanatas](https://www.linkedin.com/in/angeloskanatas/) - Music representation learning, ongoing
 - [Recep Oğuz Araz](https://www.linkedin.com/in/recep-o%C4%9Fuz-araz-930a39157/) - Music representation learning for music identification, ongoing
 - [Pablo Alonso Jimenez](https://palonso.github.io) - [Deep audio representation learning for music using weak supervision](http://hdl.handle.net/10803/692389), defended in 2024
 - [Philip Tovstogan](https://philtgun.me) - [Exploration of music collections with audio embeddings](http://hdl.handle.net/10803/675031), defended in 2022
