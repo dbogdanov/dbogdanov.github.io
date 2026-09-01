@@ -280,6 +280,26 @@ audio features and metadata](https://hdl.handle.net/10803/123776). Universitat P
 - 2011 -- 2012 - Signal processing undegraduate course, Pompeu Fabra University, seminars and practicals
 - 2006 -- 2007 - Algorithms and algorithmic languages, Moscow State University, undergraduate course (practicals)
 
+### Master's thesis supervision
+- Danila Alexandrovich - [Interactive machine learning for music classification](https://zenodo.org/records/17303471), 2025 (co-supervised)
+- Ada Salvador - [Freesound Loop Generator](https://zenodo.org/records/17301899), 2025 (co-supervised)
+- Sergio Cárdenas - [Comparison of audio encoders for audio-text contrastive learning representations](https://zenodo.org/records/17304842), 2025 (co-supervised)
+- Du Huang - [Exploring neural audio codec-based contrastive language-audio pre-training](https://zenodo.org/records/13862188), 2024 (co-supervised)
+- Christos Plachouras - [Beyond benchmarks: A toolkit for music audio representation evaluation](https://zenodo.org/records/8380471), 2023 (co-supervised)
+- Recep Oğuz Araz - [Semantic sound similarity with deep embeddings for Freesound](https://zenodo.org/records/8385275), 2023 (co-supervised)
+- Ahmet Oğuz Öztürk - [Applying audio problem detection algorithms to sounds on Freesound web platform](https://zenodo.org/records/8380400), 2023 (co-supervised)
+- Morgan Buisson - [Improving generalization of deep learning music classifiers](https://zenodo.org/records/5554754), 2021 (co-supervised)
+- Alexander Keijser - [Learning music similarity using audio and textual input](https://zenodo.org/records/4091448), 2020 (co-supervised)
+- Luis Joglar-Ongay - [Applications of Essentia on the web](https://zenodo.org/records/4091073), 2020
+- Roman Tsukanov - [Tools for building new MIR datasets](https://zenodo.org/records/3755579), 2020
+- Yiqun Liu - [Online music preferences of different generations: An acoustic perspective](https://zenodo.org/records/4091095), 2020 (co-supervised)
+- Victor Badenas - [Audio problems detection on sound collections](https://zenodo.org/records/3770330), 2019
+- Philip Tovstogan - [Exploring music similarity with AcousticBrainz](https://zenodo.org/records/1479769), 2018 (co-supervised)
+- Vibhor Bajpai - [Evaluation of state of the art for genre classification in large datasets](https://zenodo.org/records/3770037), 2018 (co-supervised)
+- Daniel Balcells - [Ariadne: User-centered music discovery in a labyrinth of semantic threads](https://zenodo.org/records/1139232), 2017 (co-supervised)
+- Minz Won - [Understanding internal semantics of deep learning models for electronic music](https://zenodo.org/records/1100967), 2017 (co-supervised)
+- Daniele Scarano - [Automatic classification of musical instrument samples](https://zenodo.org/records/3755614), 2016 (co-supervised)
+
 ### PhD thesis supervision
 - [Angelos-Nikolaos Kanatas](https://www.linkedin.com/in/angeloskanatas/) - Music representation learning, ongoing
 - [Recep Oğuz Araz](https://www.linkedin.com/in/recep-o%C4%9Fuz-araz-930a39157/) - Music representation learning for music identification, ongoing
