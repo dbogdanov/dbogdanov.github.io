@@ -186,6 +186,7 @@ Open datasets I am involved in:
 - Schedl, M., Knees, P., McFee, B., Bogdanov, D., & Kaminskas M. (2015).  [Music recommender systems. Recommender Systems Handbook (2nd edition)](https://link.springer.com/chapter/10.1007/978-1-4899-7637-6_13). Springer.
 
 ### Other publications
+- Bahuguna, A., Alonso-Jiménez, P., Lizarraga-Seijas, X., & Bogdanov, D. (2026). Small supervised embeddings beat zero-shot foundation models on music classification tasks in Essentia. International Society for Music Information Retrieval Conference (ISMIR 2026). Late Breaking Demo (Accepted).
 - Araz, R.O., Serrà, J., Serra, X., Mitsufuji, Y., & Bogdanov, D. (2024). [Discogs-VINet-MIREX](https://futuremirex.com/portal/wp-content/uploads/2024/11/R_Oguz_Araz-MIREX2024.pdf). Music Information Retrieval Evaluation eXchange (MIREX 2024).
 - Correya, A., Bogdanov, D., Alonso-Jiménez, P., & Serra X. (2022). [Essentia API: a web API for music audio analysis](https://ismir2022program.ismir.net/lbd_401.html). International Society for Music Information Retrieval Conference (ISMIR 2022). Late Breaking Demo.
 - Manco, I., Weck, B., Tovstogan, P., Won, M., & Bogdanov, D. (2022). [Song Describer: a platform for collecting textual descriptions of music recordings](https://ismir2022program.ismir.net/lbd_405.html). International Society for Music Information Retrieval Conference (ISMIR 2022). Late Breaking Demo.
